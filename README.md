@@ -57,12 +57,16 @@
 <br />
 
 - - - -
-##   Game of Life (click to see Source)
+##   Game of Life <a href="https://github.com/SilenZcience/SilenZcience/blob/main/GameOfLife/GameOfLife.py">(click to see Source)</a>
 <p align="center">
 	<a href="https://github.com/SilenZcience/SilenZcience/blob/main/GameOfLife/GameOfLife.py">
 		<picture>
-		<source width="98.6%" media="(prefers-color-scheme: dark)" srcset="./GameOfLifeDark.png">
-		<img width="98.6%" alt="Game of Life'" src="./GameOfLifeBright.png">
+			<source width="98.6%" media="(prefers-color-scheme: dark)" srcset="./GameOfLifeDark.png">
+			<img width="98.6%" alt="Game of Life'" src="./GameOfLifeBright.png">
+		</picture>
+		<picture>
+			<source width="98.6%" media="(prefers-color-scheme: dark)" srcset="./GameOfLife/IterationDark.svg">
+			<img width="98.6%" alt="Game of Life'" src="./GameOfLife/IterationBright.svg">
 		</picture>
 	</a>
 </p>

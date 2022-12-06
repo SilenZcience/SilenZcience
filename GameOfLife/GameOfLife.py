@@ -17,10 +17,12 @@ for i, size in enumerate(cell_size):
         cell_size[i] += 1
     cell_size[i] = int(cell_size[i])+1
 
-workingDir = os.path.abspath(os.path.join(__file__,  '..', '..'))
+fileDir = os.path.abspath(os.path.join(__file__,  '..'))
+workingDir = os.path.abspath(os.path.join(fileDir, '..'))
 target_images = [os.path.join(workingDir, 'GameOfLifeBright.png'),
                  os.path.join(workingDir, 'GameOfLifeDark.png')]
-
+target_iteration_images = [os.path.join(fileDir, 'IterationBright.svg'),
+                           os.path.join(fileDir, 'IterationDark.svg')]
 
 def updateGame(cells):
     """Calculate the next cycle of cells, aswell
@@ -90,6 +92,36 @@ def startNewGame(target_image, dark):
     image.save(target_image)
 
 
+def updateIteration(imageFile, increment):
+    if not os.path.exists(imageFile):
+        return
+    fileContent = headerContent = ""
+    currentIteration = 0
+    try:
+        with open(imageFile, 'r', encoding="utf-8") as image:
+            fileContent = image.read()
+            headerContent = fileContent[fileContent.find("<h1>") + 4:fileContent.find("</h1>")]
+    except:
+        return
+
+    newHeaderContent = ""
+    if increment:
+        headerIteration = ""
+        for char in headerContent[::-1]:
+            if not char.isnumeric():
+                break
+            headerIteration += char
+        currentIteration = int(headerIteration[::-1]) + 1
+    
+    newHeaderContent = "Current Iteration: {}".format(currentIteration)
+    
+    try:
+        with open(imageFile, 'w', encoding="utf-8") as image:
+            image.write(fileContent.replace(headerContent, newHeaderContent))
+    except:
+        return
+
+
 def main():
     for i, target_image in enumerate(target_images):
         if os.path.exists(target_image):
@@ -98,10 +130,13 @@ def main():
             image = generateImage(cells, i)
             if np.array_equal(currentImage, image):
                 startNewGame(target_image, i)
+                updateIteration(target_iteration_images[i], False)
             else:
                 image.save(target_image)
+                updateIteration(target_iteration_images[i], True)
         else:
             startNewGame(target_image, i)
+            updateIteration(target_iteration_images[i], False)
 
 
 if __name__ == '__main__':
