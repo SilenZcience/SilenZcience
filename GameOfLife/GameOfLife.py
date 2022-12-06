@@ -1,11 +1,19 @@
 import os
 import numpy as np
 from PIL import Image
+from PIL.ImageColor import getcolor
 
-# [0] == RGBA_light, [1] == RGBA_dark
-color_dead = [[255, 254, 254, 255], [20, 19, 33, 255]]
-color_alive = [[65, 183, 130, 255], [216, 58, 125, 255]]
-color_dying = [[40, 57, 74, 255], [247, 215, 71, 255]]
+color_light_dead = "#FFFEFEFF"
+color_light_alive = "#41B782FF"
+color_light_dying = "#28394AFF"
+
+color_dark_dead = "#141321FF"
+color_dark_alive = "#D83A7DFF"
+color_dark_dying = "#F7D747FF"
+
+color_dead = [getcolor(color_light_dead, "RGBA"), getcolor(color_dark_dead, "RGBA")]
+color_alive = [getcolor(color_light_alive, "RGBA"), getcolor(color_dark_alive, "RGBA")]
+color_dying = [getcolor(color_light_dying, "RGBA"), getcolor(color_dark_dying, "RGBA")]
 
 canvas_size = (420, 1200)  # height, width
 cell_grid = (84, 240)
@@ -83,7 +91,7 @@ def initRunningGame(imageFile, dark):
 
 
 def initNewGame():
-    # testGame = np.zeros(cell_grid, dtype=np.int8)
+    # testGame = np.zeros(cell_grid, dtype=np.int8) # Cell Grid should be >= 19x19
     
     # Still-lifes
     # a[2:4,2:4] = 1 # Block
