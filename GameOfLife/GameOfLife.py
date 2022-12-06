@@ -15,7 +15,7 @@ cell_size = [canvas_size[0]/cell_grid[0],
 for i, size in enumerate(cell_size):
     if not size.is_integer():
         cell_size[i] += 1
-    cell_size[i] = int(cell_size[i])+1
+    cell_size[i] = int(cell_size[i])
 
 fileDir = os.path.abspath(os.path.join(__file__,  '..'))
 workingDir = os.path.abspath(os.path.join(fileDir, '..'))
@@ -33,7 +33,7 @@ def updateGame(cells):
     for row, col in np.ndindex(cells.shape):
         num_alive = np.sum(cells[row-1:row+2, col-1:col+2]) - cells[row, col]
 
-        if (cells[row, col] in [1, 2] and 2 <= num_alive <= 3) or (cells[row, col] == 0 and num_alive == 3):
+        if (cells[row, col] == 1 and 2 <= num_alive <= 3) or (cells[row, col] == 0 and num_alive == 3):
             nextArray[row, col] = 1
 
     cells = nextArray.copy()
@@ -41,7 +41,7 @@ def updateGame(cells):
         num_alive = np.sum(
             nextArray[row-1:row+2, col-1:col+2]) - nextArray[row, col]
 
-        if nextArray[row, col] == 1 and num_alive < 2 or num_alive > 3:
+        if nextArray[row, col] == 1 and (num_alive < 2 or num_alive > 3):
             cells[row, col] = 2
 
     return cells
@@ -83,6 +83,50 @@ def initRunningGame(imageFile, dark):
 
 
 def initNewGame():
+    # testGame = np.zeros(cell_grid, dtype=np.int8)
+    
+    # Still-lifes
+    # a[2:4,2:4] = 1 # Block
+    
+    # a[1:2,2:4] = 1
+    # a[2:3,1:2] = 1
+    # a[2:3,4:5] = 1
+    # a[3:4,2:4] = 1 # Bee-Hive
+    
+    # Oscillators
+    # a[2:4,2:4] = 1
+    # a[3:4,1:2] = 1
+    # a[2:3,4:5] = 1 # Toad
+    
+    # a[2:5,2:3] = 1 # Blinker
+    
+    # a[1:3,1:3] = 1
+    # a[3:5,3:5] = 1 # Beacon
+    
+    # a[2:3,4:7] = 1
+    # a[2:3,10:13] = 1
+    # a[4:7,2:3] = 1
+    # a[4:7,7:8] = 1
+    # a[4:7,9:10] = 1
+    # a[4:7,14:15] = 1
+    # a[7:8,4:7] = 1
+    # a[7:8,10:13] = 1
+    # a[9:10,4:7] = 1
+    # a[9:10,10:13] = 1
+    # a[10:13,2:3] = 1
+    # a[10:13,7:8] = 1
+    # a[10:13,9:10] = 1
+    # a[10:13,14:15] = 1
+    # a[14:15,4:7] = 1
+    # a[14:15, 10:13] = 1 # Pulsar
+    
+    
+    # Spaceships
+    # a[2:3, 1:2] = 1
+    # a[3:4, 2:3] = 1
+    # a[1:4, 3:4] = 1 # Glider
+    
+    # return testGame
     return np.random.randint(0, 2, cell_grid, dtype=np.int8)
 
 
