@@ -61,8 +61,8 @@
 <p align="center">
 	<a href="https://github.com/SilenZcience/SilenZcience/blob/main/GameOfLife/GameOfLife.py">
 		<picture>
-			<source width="98.6%" media="(prefers-color-scheme: dark)" srcset="./GameOfLifeDark.png">
-			<img width="98.6%" alt="Game of Life'" src="./GameOfLifeBright.png">
+			<source width="98.6%" media="(prefers-color-scheme: dark)" srcset="./GameOfLife/GameOfLifeDark.png">
+			<img width="98.6%" alt="Game of Life'" src="./GameOfLife/GameOfLifeBright.png">
 		</picture>
 		<picture>
 			<source width="98.6%" media="(prefers-color-scheme: dark)" srcset="./GameOfLife/IterationDark.svg">
