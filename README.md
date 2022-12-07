@@ -38,10 +38,12 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source width="43.2%" align="left" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-    <img width="43.2%" align="left" alt="language-stats.'" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
-  </picture>
+	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
+      <img align="left" width="43.2%" alt="language-stats." src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only">
+	</a>
+	<a href="https://github.com/SilenZcience#gh-light-mode-only">
+      <img align="left" width="43.2%" alt="language-stats." src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only">
+    </a>
   
   <a href="https://github.com/SilenZcience/SilenZcience/blame/main/CSS_UsernameDark.svg">
     <picture>
