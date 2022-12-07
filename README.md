@@ -29,10 +29,12 @@
 
 
 <p align="center">
-    <picture>
-      <source width="98.6%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=merko&bg_color=141321&hide_border=true&line=d83a7d&point=f7d747">
-      <img width="98.6%" alt="activity-graph.'" src="https://github-readme-activity-graph.cyclic.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=vue&bg_color=fffefe&hide_border=true&point=28394a">
-    </picture>
+    <a href="https://github.com/SilenZcience#gh-dark-mode-only">
+      <img width="98.6%" src="https://github-readme-activity-graph.cyclic.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=merko&bg_color=141321&hide_border=true&line=d83a7d&point=f7d747#gh-dark-mode-only">
+	</a>
+	<a href="https://github.com/SilenZcience#gh-light-mode-only">
+      <img width="98.6%" src="https://github-readme-activity-graph.cyclic.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=vue&bg_color=fffefe&hide_border=true&point=28394a#gh-light-mode-only">
+    </a>
 </p>
 
 <p align="center">
