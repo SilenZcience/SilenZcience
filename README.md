@@ -15,15 +15,17 @@
 
 <br/>
 <p align="center">
-    <!-- <a href=""> --> 
-      <picture>
-        <source width="49.2%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&theme=radical&hide_border=true">
-        <img width="49.2%" alt="readme-stats.'" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&theme=vue&hide_border=true">
-      </picture>
-      <picture>
-        <source width="49.2%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SilenZcience&theme=radical&hide_border=true">
-        <img width="49.2%" alt="streak-stats.'" src="https://github-readme-streak-stats.herokuapp.com/?user=SilenZcience&theme=vue&hide_border=true">
-      </picture>
+    <!-- <a href=""> -->
+	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
+		<img width="49.2%" alt="readme-stats." src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&theme=radical&hide_border=true#gh-dark-mode-only">
+	</a>
+	<a href="https://github.com/SilenZcience#gh-light-mode-only">
+		<img width="49.2%" alt="readme-stats." src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&theme=vue&hide_border=true#gh-light-mode-only">
+	</a>
+	<picture>
+		<source width="49.2%" media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SilenZcience&theme=radical&hide_border=true">
+		<img width="49.2%" alt="streak-stats.'" src="https://github-readme-streak-stats.herokuapp.com/?user=SilenZcience&theme=vue&hide_border=true">
+	</picture>
     <!-- </a> -->
 </p>
 
