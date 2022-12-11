@@ -83,11 +83,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/hhu-stups/prolog-jupyter-kernel/issues/11) in [hhu-stups/prolog-jupyter-kernel](https://github.com/hhu-stups/prolog-jupyter-kernel)
-2. 💪 Opened PR [#11](https://github.com/hhu-stups/prolog-jupyter-kernel/pull/11) in [hhu-stups/prolog-jupyter-kernel](https://github.com/hhu-stups/prolog-jupyter-kernel)
-3. 🗣 Commented on [#10](https://github.com/hhu-stups/prolog-jupyter-kernel/issues/10) in [hhu-stups/prolog-jupyter-kernel](https://github.com/hhu-stups/prolog-jupyter-kernel)
-4. ❌ Closed PR [#10](https://github.com/hhu-stups/prolog-jupyter-kernel/pull/10) in [hhu-stups/prolog-jupyter-kernel](https://github.com/hhu-stups/prolog-jupyter-kernel)
-5. 🗣 Commented on [#9](https://github.com/hhu-stups/prolog-jupyter-kernel/issues/9) in [hhu-stups/prolog-jupyter-kernel](https://github.com/hhu-stups/prolog-jupyter-kernel)
+1. 🎉 Merged PR [#1](https://github.com/SilenZcience/cmdtrix/pull/1) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
+2. 🎉 Merged PR [#1](https://github.com/SilenZcience/GameOfLifeAction/pull/1) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
+3. ❌ Reopened PR [#1](https://github.com/SilenZcience/GameOfLifeAction/pull/1) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
+4. ❌ Closed PR [#1](https://github.com/SilenZcience/GameOfLifeAction/pull/1) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
+5. 🗣 Commented on [#1](https://github.com/SilenZcience/GameOfLifeAction/issues/1) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
 <!--END_SECTION:activity-->
 
 </details>
