@@ -78,7 +78,9 @@
 		<img width="98.6%" alt="Game of Life" src="./GameOfLife/IterationBright.svg#gh-light-mode-only">
 	</a> -->
 	<!-- GameOfLife -->
-	<img width="98.6%" alt="Game of Life" src="./GameOfLife/GameOfLife.gif">
+	<a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">
+		<img width="98.6%" alt="Game of Life" src="./GameOfLife/GameOfLife.gif">
+	</a> 
 </p>
 
 - - - -
