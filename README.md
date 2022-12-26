@@ -69,14 +69,16 @@
 - - - -
 ##   Game of Life <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">(click to see Source)</a>
 <p align="center">
-	<a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py#gh-dark-mode-only">
+	<!-- <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py#gh-dark-mode-only">
 		<img width="98.6%" alt="Game of Life" src="./GameOfLife/GameOfLifeDark.png#gh-dark-mode-only">
 		<img width="98.6%" alt="Game of Life" src="./GameOfLife/IterationDark.svg#gh-dark-mode-only">
 	</a>
 	<a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py#gh-light-mode-only">
 		<img width="98.6%" alt="Game of Life" src="./GameOfLife/GameOfLifeBright.png#gh-light-mode-only">
 		<img width="98.6%" alt="Game of Life" src="./GameOfLife/IterationBright.svg#gh-light-mode-only">
-	</a>
+	</a> -->
+	<!-- GameOfLife -->
+	<img width="98.6%" alt="Game of Life" src="./GameOfLife/GameOfLife.gif">
 </p>
 
 - - - -

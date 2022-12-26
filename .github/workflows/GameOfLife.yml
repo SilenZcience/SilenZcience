@@ -10,13 +10,13 @@ env:
   COLOR_DEAD_DARK: '#141321FF'
   COLOR_DYING_DARK: '#F7D747FF'
   COLOR_ALIVE_DARK: '#D83A7DFF'
-  COLOR_DEAD_LIGHT: '#FFFEFEFF'
-  COLOR_DYING_LIGHT: '#28394AFF'
-  COLOR_ALIVE_LIGHT: '#41B782FF'
+  COLOR_DEAD_LIGHT: '#0D1117FF'
+  COLOR_DYING_LIGHT: '#30363DFF'
+  COLOR_ALIVE_LIGHT: '#8B949EFF'
   CANVAS_HEIGHT: '420'
   CANVAS_WIDTH: '1200'
-  CELL_AMOUNT_VERTICAL: '84'
-  CELL_AMOUNT_HORIZONTAL: '240'
+  CELL_AMOUNT_VERTICAL: '420'
+  CELL_AMOUNT_HORIZONTAL: '1200'
 
 jobs:
   build:
@@ -41,12 +41,14 @@ jobs:
           python -m pip install -r ./GameOfLifeAction/GameOfLife/requirements.txt
       - name: Run Script
         run: |
-          python ./GameOfLifeAction/GameOfLife/GameOfLife.py -p "./main/$PATH_STRUC" \
+          python ./GameOfLifeAction/GameOfLife/GameOfLife.py -gif "./main/$PATH_STRUC/GameOfLife.gif" \
           -cdead "$COLOR_DEAD_LIGHT,$COLOR_DEAD_DARK" \
           -cdying "$COLOR_DYING_LIGHT,$COLOR_DYING_DARK" \
           -calive "$COLOR_ALIVE_LIGHT,$COLOR_ALIVE_DARK" \
           -canvas "$CANVAS_HEIGHT,$CANVAS_WIDTH" \
-          -grid "$CELL_AMOUNT_VERTICAL,$CELL_AMOUNT_HORIZONTAL"
+          -grid "$CELL_AMOUNT_VERTICAL,$CELL_AMOUNT_HORIZONTAL" \
+          -gifSpeed 200 \
+          -gifLength -1
       - name: Push
         run: |
           cd ./main/
