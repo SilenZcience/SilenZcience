@@ -89,8 +89,8 @@
 	<summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SilenZcience/cmdtrix/pull/1) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
-2. 🎉 Merged PR [#1](https://github.com/SilenZcience/GameOfLifeAction/pull/1) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
+1. ❌ Closed PR [#2](https://github.com/XT60/Dynamic-lights-2D/pull/2) in [XT60/Dynamic-lights-2D](https://github.com/XT60/Dynamic-lights-2D)
+2. 💪 Opened PR [#2](https://github.com/XT60/Dynamic-lights-2D/pull/2) in [XT60/Dynamic-lights-2D](https://github.com/XT60/Dynamic-lights-2D)
 3. ❌ Reopened PR [#1](https://github.com/SilenZcience/GameOfLifeAction/pull/1) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
 4. ❌ Closed PR [#1](https://github.com/SilenZcience/GameOfLifeAction/pull/1) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
 5. 🗣 Commented on [#1](https://github.com/SilenZcience/GameOfLifeAction/issues/1) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
