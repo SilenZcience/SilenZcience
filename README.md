@@ -3,12 +3,13 @@
 
 # Hi there, I'm Silas
 
+<!-- Username -->
 <p align="center">
 	<a href="https://github.com/SilenZcience/SilenZcience/blame/main/CSS_UsernameDark.svg#gh-dark-mode-only">
-      <img width="43.2%" alt="language-stats." src="./CSS_UsernameDark.svg#gh-dark-mode-only">
+      <img width="43.2%" alt="Username in CSS" src="./CSS_UsernameDark.svg#gh-dark-mode-only">
 	</a>
 	<a href="https://github.com/SilenZcience/SilenZcience/blame/main/CSS_UsernameBright.svg#gh-light-mode-only">
-      <img width="43.2%" alt="language-stats." src="./CSS_UsernameBright.svg#gh-light-mode-only">
+      <img width="43.2%" alt="Username in CSS" src="./CSS_UsernameBright.svg#gh-light-mode-only">
     </a>	
 </p>
 
@@ -24,12 +25,8 @@
 <details>
 
 <summary>
-
-<img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30" style="margin-top:100;" />
 <h2>Github Stats and Activity</h2>
-
-
-
+<img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30" />
 </summary>
 
 
