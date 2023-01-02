@@ -2,12 +2,7 @@
 
 <p>
 	<!-- Profile Views -->
-	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
-      <img align="right" alt="VisitorBadge.'" src="https://komarev.com/ghpvc/?username=SilenZcience&color=d83a7d&style=for-the-badge#gh-dark-mode-only">
-	</a>
-	<a href="https://github.com/SilenZcience#gh-light-mode-only">
-      <img align="right" alt="VisitorBadge.'" src="https://komarev.com/ghpvc/?username=SilenZcience&color=41b782&style=for-the-badge#gh-light-mode-only">
-    </a>
+	<img align="right" alt="VisitorBadge.'" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSilenZcience&count_bg=%2336BCF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false">
 	<!-- Messages -->
 	<img align="left" src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Silas.;Student+at+Heinrich-Heine-University.;&center=true&width=500&height=50"> 
 </p>
@@ -20,11 +15,11 @@
 <br/>
 <p align="center">
     <!-- Github Stats -->
-	<!-- Streak Stats -->
 	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
 		<img width="49.2%" alt="readme-stats." src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&theme=radical&hide_border=true#gh-dark-mode-only">
 		<img width="49.2%" alt="streak-stats." src="https://github-readme-streak-stats.herokuapp.com/?user=SilenZcience&theme=radical&hide_border=true#gh-dark-mode-only">
 	</a>
+	<!-- Streak Stats -->
 	<a href="https://github.com/SilenZcience#gh-light-mode-only">
 		<img width="49.2%" alt="readme-stats." src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&theme=vue&hide_border=true#gh-light-mode-only">
 		<img width="49.2%" alt="streak-stats." src="https://github-readme-streak-stats.herokuapp.com/?user=SilenZcience&theme=vue&hide_border=true#gh-light-mode-only">
