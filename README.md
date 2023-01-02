@@ -78,7 +78,6 @@
 </details>
 </details>
 
-- - - -
 ##   Game of Life <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">(click to see Source)</a>
 <!-- GameOfLife -->
 <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">
