@@ -37,8 +37,7 @@
 	<img alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true#gh-light-mode-only" height="192px" />
 </a> -->
 <a href="https://github.com/SilenZcience#gh-dark-mode-only">
-	<img align="left" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=radical&
-	hide_border=true&layout=compact#gh-dark-mode-only" height="192px" />
+	<img align="left" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=radical&hide_border=true&layout=compact#gh-dark-mode-only" height="192px" />
 </a>
 <!-- <a href="https://github.com/SilenZcience#gh-light-mode-only">
 	<img align="left" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=vue&
