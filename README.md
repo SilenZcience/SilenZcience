@@ -5,10 +5,10 @@
 
 <p align="center">
 	<a href="https://github.com/SilenZcience/SilenZcience/blame/main/CSS_UsernameDark.svg#gh-dark-mode-only">
-      <img align="right" width="43.2%" alt="language-stats." src="./CSS_UsernameDark.svg#gh-dark-mode-only">
+      <img width="43.2%" alt="language-stats." src="./CSS_UsernameDark.svg#gh-dark-mode-only">
 	</a>
 	<a href="https://github.com/SilenZcience/SilenZcience/blame/main/CSS_UsernameBright.svg#gh-light-mode-only">
-      <img align="right" width="43.2%" alt="language-stats." src="./CSS_UsernameBright.svg#gh-light-mode-only">
+      <img width="43.2%" alt="language-stats." src="./CSS_UsernameBright.svg#gh-light-mode-only">
     </a>	
 </p>
 
