@@ -29,13 +29,13 @@
 <h3>💻 GitHub Profile Stats</h3>
 
 <!-- Github Readme Stats -->
+<!-- Top Languages Stats -->
 <a href="https://github.com/SilenZcience#gh-dark-mode-only">
 	<img alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&theme=radical&hide_border=true#gh-dark-mode-only" height="192px" />
 </a>
 <a href="https://github.com/SilenZcience#gh-light-mode-only">
 	<img alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&theme=vue&hide_border=true#gh-light-mode-only" height="192px" />
 </a>
-<!-- Top Languages Stats -->
 <a href="https://github.com/SilenZcience#gh-dark-mode-only">
 	<img align="left" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only" height="192px" />
 </a>
