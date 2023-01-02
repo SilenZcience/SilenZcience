@@ -6,7 +6,7 @@
 
         .wrapper {
             text-align: center;
-            background-color: #141321;
+            background-color: #14132100;
             width: 345px;
             height: 110px
         }
