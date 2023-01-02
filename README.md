@@ -44,8 +44,8 @@
 	hide_border=true&layout=compact#gh-light-mode-only" height="192px" />
 </a> -->
 <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<a href="https://github.com/SilenZcience"><img alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only" height="192px"/></a>
+<a href="https://github.com/SilenZcience"><img alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=radical&hide_border=true&layout=compact#gh-dark-mode-only" height="192px"/></a>
 <br/>
 
 <!-- Contribution Graph -->
