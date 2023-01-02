@@ -18,9 +18,6 @@
 	<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Silas.;Student+at+Heinrich-Heine-University.;&center=true&width=500&height=50" /> 
 </p>
 
-<br />
-<br />
-
 <!-- Statistic Details -->
 <details>
 
