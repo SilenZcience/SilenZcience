@@ -1,10 +1,11 @@
+<!-- Profile Views -->
+<img align="right" alt="VisitorBadge.'" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSilenZcience&count_bg=%2336BCF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" />
+
 # Hi there, I'm Silas
 
-<p>
-	<!-- Profile Views -->
-	<img align="right" alt="VisitorBadge.'" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSilenZcience&count_bg=%2336BCF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" />
-	<!-- Messages -->
-	<img align="left" src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Silas.;Student+at+Heinrich-Heine-University.;&center=true&width=500&height=50" /> 
+<!-- Messages -->
+<p align="center">
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Silas.;Student+at+Heinrich-Heine-University.;&center=true&width=500&height=50" /> 
 </p>
 
 <br />
@@ -32,12 +33,12 @@
     <!-- Github Stats -->
 	<!-- Streak Stats -->
 	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
-		<img width="49.2%" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only">
-		<img width="49.2%" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only">
+		<img width="49.2%" height="192px" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only">
+		<img width="49.2%" height="192px" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only">
 	</a>
 	<a href="https://github.com/SilenZcience#gh-light-mode-only">
-		<img width="49.2%" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true#gh-light-mode-only">
-		<img width="49.2%" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only">
+		<img width="49.2%" height="192px" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true#gh-light-mode-only">
+		<img width="49.2%" height="192px" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only">
 	</a>
 </p>
 
@@ -67,14 +68,6 @@
 
 - - - -
 ##   Game of Life <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">(click to see Source)</a>
-<!-- <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py#gh-dark-mode-only">
-	<img width="98.6%" alt="Game of Life" src="./GameOfLife/GameOfLifeDark.png#gh-dark-mode-only">
-	<img width="98.6%" alt="Game of Life" src="./GameOfLife/IterationDark.svg#gh-dark-mode-only">
-</a>
-<a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py#gh-light-mode-only">
-	<img width="98.6%" alt="Game of Life" src="./GameOfLife/GameOfLifeBright.png#gh-light-mode-only">
-	<img width="98.6%" alt="Game of Life" src="./GameOfLife/IterationBright.svg#gh-light-mode-only">
-</a> -->
 <!-- GameOfLife -->
 <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">
 	<img alt="Game of Life" src="./GameOfLife/GameOfLife.gif">
