@@ -45,7 +45,7 @@
 </a> -->
 <br/>
 <a href="https://github.com/SilenZcience"><img alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only" height="192px"/></a>
-<a href="https://github.com/SilenZcience"><img alt="SilenZcience' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
+<a href="https://github.com/SilenZcience"><img alt="SilenZcience' Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenverCoder1&langs_count=8&layout=compact&theme=radical&hide_border=true" height="192px"/></a>
 <br/>
 
 <!-- Contribution Graph -->
