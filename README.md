@@ -82,5 +82,5 @@
 ##   Game of Life <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">(click to see Source)</a>
 <!-- GameOfLife -->
 <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">
-	<img alt="Game of Life" src="./GameOfLife/GameOfLife.gif">
+	<img alt="Game of Life" src="./GameOfLife/Transition.gif">
 </a> 
