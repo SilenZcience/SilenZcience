@@ -68,10 +68,10 @@
 	<summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/XT60/Dynamic-lights-2D/pull/2) in [XT60/Dynamic-lights-2D](https://github.com/XT60/Dynamic-lights-2D)
-2. 💪 Opened PR [#2](https://github.com/XT60/Dynamic-lights-2D/pull/2) in [XT60/Dynamic-lights-2D](https://github.com/XT60/Dynamic-lights-2D)
-3. ❌ Reopened PR [#1](https://github.com/SilenZcience/GameOfLifeAction/pull/1) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
-4. ❌ Closed PR [#1](https://github.com/SilenZcience/GameOfLifeAction/pull/1) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
+1. 🚀 Published release [V1.4.2 2023.05.13](https://github.com/V1.4.2 2023.05.13) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+2. 🚀 Published release [V1.4.1 2023.05.04](https://github.com/V1.4.1 2023.05.04) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+3. 🚀 Published release [V1.4.0 2023.04.21](https://github.com/V1.4.0 2023.04.21) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+4. 🚀 Published release [V1.3.0 2023.04.10](https://github.com/V1.3.0 2023.04.10) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 5. 🗣 Commented on [#1](https://github.com/SilenZcience/GameOfLifeAction/issues/1) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
 <!--END_SECTION:activity-->
 
