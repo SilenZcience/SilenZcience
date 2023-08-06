@@ -68,10 +68,10 @@
 	<summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.4.3 2023.07.11](https://github.com/SilenZcience/cat_win/releases/tag/v1.4.3) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-2. 🚀 Published release [V1.4.2 2023.05.13](https://github.com/SilenZcience/cat_win/releases/tag/v1.4.2) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-3. 🚀 Published release [V1.4.1 2023.05.04](https://github.com/SilenZcience/cat_win/releases/tag/v1.4.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-4. 🚀 Published release [V1.3.0 2023.04.10](https://github.com/V1.3.0 2023.04.10) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+1. ❗ Opened issue [#1](https://github.com/narest-qa/repo72/issues/1) in [narest-qa/repo72](https://github.com/narest-qa/repo72)
+2. 🚀 Published release [V0.1.8 2023.07.30](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.1.8) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
+3. 🚀 Published release [V1.4.3 2023.07.11](https://github.com/SilenZcience/cat_win/releases/tag/v1.4.3) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+4. 🚀 Published release [V1.4.2 2023.05.13](https://github.com/SilenZcience/cat_win/releases/tag/v1.4.2) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 5. 🗣 Commented on [#1](https://github.com/SilenZcience/GameOfLifeAction/issues/1) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
 <!--END_SECTION:activity-->
 
