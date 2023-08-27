@@ -68,9 +68,9 @@
 	<summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.5.0 2023.08.12](https://github.com/SilenZcience/cat_win/releases/tag/v1.5.0) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-2. 🚀 Published release [V0.1.9 2023.08.10](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.1.9) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
-3. ❗ Opened issue [#1](https://github.com/narest-qa/repo72/issues/1) in [narest-qa/repo72](https://github.com/narest-qa/repo72)
+1. 🚀 Published release [V1.6.0 2023.08.22](https://github.com/SilenZcience/cat_win/releases/tag/v1.6.0) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+2. 🚀 Published release [V1.5.0 2023.08.12](https://github.com/SilenZcience/cat_win/releases/tag/v1.5.0) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+3. 🚀 Published release [V0.1.9 2023.08.10](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.1.9) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
 4. 🚀 Published release [V0.1.8 2023.07.30](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.1.8) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
 5. 🚀 Published release [V1.4.3 2023.07.11](https://github.com/SilenZcience/cat_win/releases/tag/v1.4.3) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 <!--END_SECTION:activity-->
