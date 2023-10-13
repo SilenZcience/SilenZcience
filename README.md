@@ -1,7 +1,7 @@
 <!-- Profile Views -->
 <img align="right" alt="VisitorBadge.'" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSilenZcience&count_bg=%2336BCF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" />
 
-# Hi there, I'm Silas
+# [&#x200B;](#) Hi there, I'm Silas
 
 <!-- Username -->
 <p align="center">
@@ -79,7 +79,7 @@
 </details>
 
 - - - -
-##   Game of Life <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">(click to see Source)</a>
+## Game of Life <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">(click to see Source)</a>
 <!-- GameOfLife -->
 <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">
 	<img alt="Game of Life" src="./GameOfLife/Transition.gif">
