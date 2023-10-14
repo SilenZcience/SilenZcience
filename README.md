@@ -22,14 +22,14 @@
 <details>
 
 <summary>
-<h2>Github Stats and Activity</h2>
+<h2><a href="#">&#x200B;</a>Github Stats and Activity</h2>
 <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30" />
 </summary>
 
 
 
 <details open>
-<summary><h2>🔥 Streak Stats</h2></summary>
+<summary><h2><a href="#">&#x200B;</a>🔥 Streak Stats</h2></summary>
 <!-- Github Streak -->
 <a href="https://github.com/SilenZcience#gh-dark-mode-only">
 	<img width="49.2%" alt="SilenZcience' Streak" src="https://streak-stats.demolab.com/?user=SilenZcience&theme=radical&hide_border=true#gh-dark-mode-only" />
@@ -40,7 +40,7 @@
 </details>
 
 <details open>
-<summary><h2>💻 GitHub Profile Stats</h2></summary>
+<summary><h2><a href="#">&#x200B;</a>💻 GitHub Profile Stats</h2></summary>
 <p align="center">
     <!-- Github Stats -->
 	<!-- Streak Stats -->
@@ -79,7 +79,7 @@
 </details>
 
 - - - -
-## Game of Life <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">(click to see Source)</a>
+## [&#x200B;](#) Game of Life <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">(click to see Source)</a>
 <!-- GameOfLife -->
 <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">
 	<img alt="Game of Life" src="./GameOfLife/Transition.gif">
