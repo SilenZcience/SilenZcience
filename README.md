@@ -68,10 +68,10 @@
 	<summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.6.3 2023.10.31](https://github.com/SilenZcience/cat_win/releases/tag/v1.6.3) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-2. 🚀 Published release [V1.6.2 2023.10.10](https://github.com/SilenZcience/cat_win/releases/tag/v1.6.2) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-3. 🚀 Published release [V1.6.1 2023.09.22](https://github.com/SilenZcience/cat_win/releases/tag/v1.6.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-4. 🚀 Published release [V0.1.8 2023.07.30](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.1.8) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
+1. 🚀 Published release [V1.6.4 2023.11.14](https://github.com/SilenZcience/cat_win/releases/tag/v1.6.4) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+2. 🚀 Published release [V1.6.3 2023.10.31](https://github.com/SilenZcience/cat_win/releases/tag/v1.6.3) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+3. 🚀 Published release [V1.6.2 2023.10.10](https://github.com/SilenZcience/cat_win/releases/tag/v1.6.2) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+4. 🚀 Published release [V1.6.1 2023.09.22](https://github.com/SilenZcience/cat_win/releases/tag/v1.6.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 5. 🚀 Published release [V1.4.3 2023.07.11](https://github.com/SilenZcience/cat_win/releases/tag/v1.4.3) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 <!--END_SECTION:activity-->
 
