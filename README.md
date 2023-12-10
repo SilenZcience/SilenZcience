@@ -46,11 +46,11 @@
 	<!-- Streak Stats -->
 	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
 		<img width="49.2%" height="192px" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only">
-		<img width="49.2%" height="192px" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only">
+		<img width="49.2%" height="192px" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile#gh-dark-mode-only">
 	</a>
 	<a href="https://github.com/SilenZcience#gh-light-mode-only">
 		<img width="49.2%" height="192px" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&count_private=true&theme=vue&hide_border=true#gh-light-mode-only">
-		<img width="49.2%" height="192px" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only">
+		<img width="49.2%" height="192px" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile#gh-light-mode-only">
 	</a>
 </p>
 
