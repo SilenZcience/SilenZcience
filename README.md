@@ -55,14 +55,15 @@
 </p>
 
 
-
-<!-- Contribution Graph -->
-<a href="https://github.com/SilenZcience#gh-dark-mode-only">
-	<img alt="SilenZcience' Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=merko&bg_color=141321&hide_border=true&line=d83a7d&point=f7d747#gh-dark-mode-only">
-</a>
-<a href="https://github.com/SilenZcience#gh-light-mode-only">
-	<img alt="SilenZcience' Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=vue&bg_color=fffefe&hide_border=true&point=28394a#gh-light-mode-only">
-</a>
+<p align="center">
+	<!-- Contribution Graph -->
+	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
+		<img alt="SilenZcience' Contribution Graph" width="765px" src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=merko&bg_color=141321&hide_border=true&line=d83a7d&point=f7d747#gh-dark-mode-only">
+	</a>
+	<a href="https://github.com/SilenZcience#gh-light-mode-only">
+		<img alt="SilenZcience' Contribution Graph" width="765px" src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=vue&bg_color=fffefe&hide_border=true&point=28394a#gh-light-mode-only">
+	</a>
+</p>
 </details>
 <details>
 	<summary>⚡ Recent GitHub Activity</summary>
