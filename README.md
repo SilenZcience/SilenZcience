@@ -69,9 +69,9 @@
 	<summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.6.5 2024.02.13](https://github.com/SilenZcience/cat_win/releases/tag/v1.6.5) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-2. 🚀 Published release [V0.1.2 2024.01.20](https://github.com/SilenZcience/ChessToTheDeath/releases/tag/v0.1.2) in [SilenZcience/ChessToTheDeath](https://github.com/SilenZcience/ChessToTheDeath)
-3. 🚀 Published release [V1.6.2 2023.10.10](https://github.com/SilenZcience/cat_win/releases/tag/v1.6.2) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+1. 🚀 Published release [V1.7.1 2024.02.22](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+2. 🚀 Published release [v1.7.0](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.0) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+3. 🚀 Published release [V0.1.1 2024.02.18](https://github.com/SilenZcience/PieWordle/releases/tag/v0.1.1) in [SilenZcience/PieWordle](https://github.com/SilenZcience/PieWordle)
 4. 🚀 Published release [V1.6.1 2023.09.22](https://github.com/SilenZcience/cat_win/releases/tag/v1.6.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 5. 🚀 Published release [V1.4.3 2023.07.11](https://github.com/SilenZcience/cat_win/releases/tag/v1.4.3) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 <!--END_SECTION:activity-->
