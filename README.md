@@ -69,11 +69,11 @@
 	<summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.7.5 2024.04.06](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.5) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-2. 🗣 Commented on [#2](https://github.com/SilenZcience/GameOfLifeAction/pull/2#issuecomment-2040689226) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
-3. ❌ Closed PR [#2](https://github.com/SilenZcience/GameOfLifeAction/pull/2) in [SilenZcience/GameOfLifeAction](https://github.com/SilenZcience/GameOfLifeAction)
-4. 🚀 Published release [V1.7.4 2024.04.02](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.4) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-5. 🚀 Published release [V1.4.3 2023.07.11](https://github.com/SilenZcience/cat_win/releases/tag/v1.4.3) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+1. 🚀 Published release [V1.7.7 2024.04.23](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.7) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+2. 🚀 Published release [V1.7.6 2024.04.23](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.6) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+3. 🗣 Commented on [#1](https://github.com/SilenZcience/cat_win/issues/1#issuecomment-2072434178) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+4. 🔒 Closed issue [#1](https://github.com/SilenZcience/cat_win/issues/1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+5. 🚀 Published release [V1.7.5 2024.04.06](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.5) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 <!--END_SECTION:activity-->
 
 </details>
