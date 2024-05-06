@@ -30,13 +30,15 @@
 
 <details open>
 <summary><h2><a href="#">&#x200B;</a>🔥 Streak Stats</h2></summary>
-<!-- Github Streak -->
-<a href="https://github.com/SilenZcience#gh-dark-mode-only">
-	<img width="49.2%" alt="SilenZcience' Streak" src="https://streak-stats.demolab.com/?user=SilenZcience&theme=radical&hide_border=true#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/SilenZcience#gh-light-mode-only">
-	<img width="49.2%" alt="SilenZcience' Streak" src="https://streak-stats.demolab.com/?user=SilenZcience&theme=vue&hide_border=true#gh-light-mode-only" />
-</a>
+<p align="center">
+	<!-- Github Streak -->
+	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
+		<img width="49.2%" alt="SilenZcience' Streak" src="https://streak-stats.demolab.com/?user=SilenZcience&theme=radical&hide_border=true#gh-dark-mode-only" />
+	</a>
+	<a href="https://github.com/SilenZcience#gh-light-mode-only">
+		<img width="49.2%" alt="SilenZcience' Streak" src="https://streak-stats.demolab.com/?user=SilenZcience&theme=vue&hide_border=true#gh-light-mode-only" />
+	</a>
+</p>
 </details>
 
 <details open>
