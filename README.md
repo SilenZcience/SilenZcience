@@ -33,10 +33,10 @@
 <p align="center">
 	<!-- Github Streak -->
 	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
-		<img width="49.2%" alt="SilenZcience' Streak" src="https://streak-stats.demolab.com/?user=SilenZcience&theme=radical&hide_border=true#gh-dark-mode-only" />
+		<img height="192px" alt="SilenZcience' Streak" src="https://streak-stats.demolab.com/?user=SilenZcience&theme=radical&hide_border=true#gh-dark-mode-only" />
 	</a>
 	<a href="https://github.com/SilenZcience#gh-light-mode-only">
-		<img width="49.2%" alt="SilenZcience' Streak" src="https://streak-stats.demolab.com/?user=SilenZcience&theme=vue&hide_border=true#gh-light-mode-only" />
+		<img height="192px" alt="SilenZcience' Streak" src="https://streak-stats.demolab.com/?user=SilenZcience&theme=vue&hide_border=true#gh-light-mode-only" />
 	</a>
 </p>
 </details>
@@ -45,7 +45,7 @@
 <summary><h2><a href="#">&#x200B;</a>💻 GitHub Profile Stats</h2></summary>
 <p align="center">
     <!-- Github Stats -->
-	<!-- Streak Stats -->
+	<!-- language Stats -->
 	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
 		<img height="192px" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only">
 		<img height="192px" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML#gh-dark-mode-only">
@@ -67,8 +67,9 @@
 	</a>
 </p>
 </details>
+
 <details>
-	<summary>⚡ Recent GitHub Activity</summary>
+<summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. 🚀 Published release [V1.7.8 2024.04.29](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.8) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
