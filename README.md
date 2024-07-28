@@ -72,9 +72,9 @@
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.7.12 2024.06.29](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.12) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-2. 🚀 Published release [V1.7.11 2024.06.10](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.11) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-3. 🚀 Published release [V1.7.10 2024.05.31](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.10) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+1. 🚀 Published release [V1.8.1 2024.07.26](https://github.com/SilenZcience/cat_win/releases/tag/v1.8.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+2. 🚀 Published release [V1.8.0 2024.07.24](https://github.com/SilenZcience/cat_win/releases/tag/v1.8.0) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+3. 🚀 Published release [V1.7.12 2024.06.29](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.12) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 4. 🚀 Published release [V1.7.9 2024.05.20](https://github.com/SilenZcience/cat_win/releases/tag/v1.7.9) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 5. 🔒 Closed issue [#1](https://github.com/SilenZcience/cat_win/issues/1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 <!--END_SECTION:activity-->
