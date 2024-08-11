@@ -72,11 +72,11 @@
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.8.3 2024.08.02](https://github.com/SilenZcience/cat_win/releases/tag/v1.8.3) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-2. 💪 Opened PR [#350](https://github.com/asottile/babi/pull/350) in [asottile/babi](https://github.com/asottile/babi)
-3. ❗ Opened issue [#349](https://github.com/asottile/babi/issues/349) in [asottile/babi](https://github.com/asottile/babi)
-4. 🚀 Published release [V1.8.2 2024.07.31](https://github.com/SilenZcience/cat_win/releases/tag/v1.8.2) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-5. 🚀 Published release [V1.8.1 2024.07.26](https://github.com/SilenZcience/cat_win/releases/tag/v1.8.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+1. 🚀 Published release [V1.8.4 2024.08.08](https://github.com/SilenZcience/cat_win/releases/tag/v1.8.4) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+2. 🚀 Published release [V1.8.3 2024.08.02](https://github.com/SilenZcience/cat_win/releases/tag/v1.8.3) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+3. 💪 Opened PR [#350](https://github.com/asottile/babi/pull/350) in [asottile/babi](https://github.com/asottile/babi)
+4. ❗ Opened issue [#349](https://github.com/asottile/babi/issues/349) in [asottile/babi](https://github.com/asottile/babi)
+5. 🚀 Published release [V1.8.2 2024.07.31](https://github.com/SilenZcience/cat_win/releases/tag/v1.8.2) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 <!--END_SECTION:activity-->
 
 </details>
