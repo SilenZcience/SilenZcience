@@ -72,11 +72,11 @@
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.8.5 2024.08.24](https://github.com/SilenZcience/cat_win/releases/tag/v1.8.5) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-2. 🗣 Commented on [#4](https://github.com/shawwn/supports-color-python/issues/4#issuecomment-2294508291) in [shawwn/supports-color-python](https://github.com/shawwn/supports-color-python)
-3. 💪 Opened PR [#6](https://github.com/shawwn/supports-color-python/pull/6) in [shawwn/supports-color-python](https://github.com/shawwn/supports-color-python)
-4. 🗣 Commented on [#4](https://github.com/shawwn/supports-color-python/issues/4#issuecomment-2287106081) in [shawwn/supports-color-python](https://github.com/shawwn/supports-color-python)
-5. ❌ Closed PR [#5](https://github.com/shawwn/supports-color-python/pull/5) in [shawwn/supports-color-python](https://github.com/shawwn/supports-color-python)
+1. 🚀 Published release [V1.9.0 2024.09.05](https://github.com/SilenZcience/cat_win/releases/tag/v1.9.0) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+2. 🚀 Published release [V1.8.5 2024.08.24](https://github.com/SilenZcience/cat_win/releases/tag/v1.8.5) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+3. 🗣 Commented on [#4](https://github.com/shawwn/supports-color-python/issues/4#issuecomment-2294508291) in [shawwn/supports-color-python](https://github.com/shawwn/supports-color-python)
+4. 💪 Opened PR [#6](https://github.com/shawwn/supports-color-python/pull/6) in [shawwn/supports-color-python](https://github.com/shawwn/supports-color-python)
+5. 🗣 Commented on [#4](https://github.com/shawwn/supports-color-python/issues/4#issuecomment-2287106081) in [shawwn/supports-color-python](https://github.com/shawwn/supports-color-python)
 <!--END_SECTION:activity-->
 
 </details>
