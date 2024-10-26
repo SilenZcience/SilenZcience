@@ -95,11 +95,11 @@ Github Stats and Activity
 <!-- language Stats -->
 <a href="https://github.com/SilenZcience#gh-dark-mode-only" align="center" width="100%">
 	<img height="200" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only">
-	<img height="200" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML#gh-dark-mode-only">
+	<img height="200" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML&card_width=320#gh-dark-mode-only">
 </a>
 <a href="https://github.com/SilenZcience#gh-light-mode-only" align="center" width="100%">
 	<img height="200" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=vue&hide_border=true#gh-light-mode-only">
-	<img height="200" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML#gh-light-mode-only">
+	<img height="200" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML&card_width=320#gh-light-mode-only">
 </a>
 </details>
 
@@ -108,13 +108,13 @@ Github Stats and Activity
 <h2><a href="#">&#x200B;</a>🍻 GitHub Contribution Stats</h2>
 
 <!-- Contribution Graph -->
-<a href="https://github.com/SilenZcience#gh-dark-mode-only">
-	<img height="200" align="center" alt="SilenZcience' Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=merko&bg_color=141321&hide_border=true&line=d83a7d&point=f7d747#gh-dark-mode-only">
-	<img height="200" align="center" alt="SilenZcience' Contributor Stats" src="https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true">
+<a href="https://github.com/SilenZcience#gh-dark-mode-only" align="center" width="100%">
+	<img height="200" alt="SilenZcience' Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=merko&bg_color=141321&hide_border=true&line=d83a7d&point=f7d747#gh-dark-mode-only">
+	<img height="200" alt="SilenZcience' Contributor Stats" src="https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true">
 </a>
-<a href="https://github.com/SilenZcience#gh-light-mode-only">
-	<img height="200" align="center" alt="SilenZcience' Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=vue&bg_color=fffefe&hide_border=true&point=28394a#gh-light-mode-only">
-	<img height="200" align="center" alt="SilenZcience' Contributor Stats" src="https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=vue&combine_all_yearly_contributions=true&hide_border=true">
+<a href="https://github.com/SilenZcience#gh-light-mode-only" align="center" width="100%">
+	<img height="200" alt="SilenZcience' Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=vue&bg_color=fffefe&hide_border=true&point=28394a#gh-light-mode-only">
+	<img height="200" alt="SilenZcience' Contributor Stats" src="https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=vue&combine_all_yearly_contributions=true&hide_border=true">
 </a>
 </details>
 
