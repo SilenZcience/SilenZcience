@@ -24,7 +24,7 @@
 </br>
 
 ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/windows%2011-0079D5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+![Windows 11](https://img.shields.io/badge/windows%2011-0079D5.svg?style=for-the-badge&logo=Windows11&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -34,15 +34,17 @@
 ![AutoIt](https://img.shields.io/badge/AutoIt-2D5073.svg?style=for-the-badge&logo=autoit&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)
+![Clojure](https://img.shields.io/badge/Clojure-Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Prolog](https://img.shields.io/badge/prolog-74283C?style=for-the-badge&logo=prolog&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 
 ![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-4DAA24.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
+![Git Bash](https://img.shields.io/badge/git%20bash-F05033.svg?style=for-the-badge&logo=Git-for-Windows&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
@@ -51,7 +53,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Vercel](https://img.shields.io/badge/Vercel-FFFFFF.svg?style=for-the-badge&logo=vercel&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </details>
 
