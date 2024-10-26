@@ -154,6 +154,11 @@
 - - - -
 <!-- ## [&#x200B;](#) Game of Life <a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">(click to see Source)</a> -->
 <!-- GameOfLife -->
-<a href="https://github.com/SilenZcience/GameOfLifeAction/blob/main/GameOfLife/GameOfLife.py">
-	<img alt="Game of Life" src="./GameOfLife/Transition.gif">
-</a> 
+<!-- Dark Mode Image -->
+<a href="https://github.com/SilenZcience/GameOfLifeAction#gh-dark-mode-only">
+	<img src="./GameOfLife/Transition-dark.gif" alt="Game of Life">
+</a>
+<!-- Light Mode Image -->
+<a href="https://github.com/SilenZcience/GameOfLifeAction#gh-light-mode-only">
+	<img src="./GameOfLife/Transition-light.gif" alt="Game of Life">
+</a>
