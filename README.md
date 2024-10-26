@@ -76,13 +76,13 @@ Github Stats and Activity
 <details>
 <summary>🔥 Github Streak Stats</summary>
 <h2><a href="#">&#x200B;</a>🔥 Github Streak Stats</h2>
-<p align="center">
-	<!-- Github Streak -->
+<!-- Github Streak -->
+<div align="center" style="display: flex;">
 	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
-		<img height="192px" alt="SilenZcience' Streak" src="https://streak-stats.demolab.com/?user=SilenZcience&theme=radical&hide_border=true#gh-dark-mode-only" />
+		<img src="https://streak-stats.demolab.com/?user=SilenZcience&theme=radical&hide_border=true#gh-dark-mode-only" alt="SilenZcience' Streak" media="(prefers-color-scheme: dark)" height="192px" />
 	</a>
 	<a href="https://github.com/SilenZcience#gh-light-mode-only">
-		<img height="192px" alt="SilenZcience' Streak" src="https://streak-stats.demolab.com/?user=SilenZcience&theme=vue&hide_border=true#gh-light-mode-only" />
+		<img src="https://streak-stats.demolab.com/?user=SilenZcience&theme=vue&hide_border=true#gh-light-mode-only" alt="SilenZcience' Streak" media="(prefers-color-scheme: light)" height="192px" />
 	</a>
 </p>
 </details>
@@ -90,47 +90,38 @@ Github Stats and Activity
 <details>
 <summary>💻 GitHub Profile Stats</summary>
 <h2><a href="#">&#x200B;</a>💻 GitHub Profile Stats</h2>
-
 <!-- Github Stats -->
 <!-- language Stats -->
-
 <div align="center" style="display: flex;">
-  <!-- Dark Mode Images -->
-  <a href="https://github.com/SilenZcience#gh-dark-mode-only">
-    <img src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: dark)" height="175px">
-    <img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML&card_width=320#gh-dark-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: dark)" height="175px">
-  </a>
-  <!-- Light Mode Images -->
-  <a href="https://github.com/SilenZcience#gh-light-mode-only">
-    <img src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=vue&hide_border=true#gh-light-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: light)" height="175px">
-    <img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML&card_width=320#gh-light-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: light)" height="175px">
-  </a>
+	<!-- Dark Mode Images -->
+	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
+		<img src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: dark)" height="175px">
+		<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML&card_width=320#gh-dark-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: dark)" height="175px">
+	</a>
+	<!-- Light Mode Images -->
+	<a href="https://github.com/SilenZcience#gh-light-mode-only">
+		<img src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=vue&hide_border=true#gh-light-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: light)" height="175px">
+		<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML&card_width=320#gh-light-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: light)" height="175px">
+	</a>
 </div>
-
-<!--
-<a href="https://github.com/SilenZcience#gh-dark-mode-only" align="center" width="100%">
-	<img height="200" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only">
-	<img height="200" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML&card_width=320#gh-dark-mode-only">
-</a>
-<a href="https://github.com/SilenZcience#gh-light-mode-only" align="center" width="100%">
-	<img height="200" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=vue&hide_border=true#gh-light-mode-only">
-	<img height="200" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML&card_width=320#gh-light-mode-only">
-</a> -->
 </details>
 
 <details>
 <summary>🍻 GitHub Contribution Stats</summary>
 <h2><a href="#">&#x200B;</a>🍻 GitHub Contribution Stats</h2>
-
 <!-- Contribution Graph -->
-<a href="https://github.com/SilenZcience#gh-dark-mode-only" align="center" width="100%">
-	<img height="200" alt="SilenZcience' Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=merko&bg_color=141321&hide_border=true&line=d83a7d&point=f7d747#gh-dark-mode-only">
-	<img height="200" alt="SilenZcience' Contributor Stats" src="https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true">
-</a>
-<a href="https://github.com/SilenZcience#gh-light-mode-only" align="center" width="100%">
-	<img height="200" alt="SilenZcience' Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=vue&bg_color=fffefe&hide_border=true&point=28394a#gh-light-mode-only">
-	<img height="200" alt="SilenZcience' Contributor Stats" src="https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=vue&combine_all_yearly_contributions=true&hide_border=true">
-</a>
+<div align="center" style="display: flex;">
+	<!-- Dark Mode Images -->
+	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=merko&bg_color=141321&hide_border=true&line=d83a7d&point=f7d747#gh-dark-mode-only" alt="SilenZcience' Contribution Graph" media="(prefers-color-scheme: dark)" height="175px">
+		<img src="https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true#gh-dark-mode-only" alt="SilenZcience' Contributor Stats" media="(prefers-color-scheme: dark)" height="175px">
+	</a>
+	<!-- Light Mode Images -->
+	<a href="https://github.com/SilenZcience#gh-light-mode-only">
+		<img src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=vue&bg_color=fffefe&hide_border=true&point=28394a#gh-light-mode-only" alt="SilenZcience' Contribution Graph" media="(prefers-color-scheme: light)" height="175px">
+		<img src="https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=vue&combine_all_yearly_contributions=true&hide_border=true#gh-light-mode-only" alt="SilenZcience' Contributor Stats" media="(prefers-color-scheme: light)" height="175px">
+	</a>
+</div>
 </details>
 
 <details>
@@ -145,6 +136,7 @@ Github Stats and Activity
 <!--END_SECTION:activity-->
 
 </details>
+
 </details>
 
 - - - -
