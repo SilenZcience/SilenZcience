@@ -114,7 +114,7 @@ Github Stats and Activity
 </a>
 <a href="https://github.com/SilenZcience#gh-light-mode-only">
 	<img height="200" align="center" alt="SilenZcience' Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=vue&bg_color=fffefe&hide_border=true&point=28394a#gh-light-mode-only">
-	<img height="200" align="center" alt="SilenZcience' Contributor Stats" src="https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=vuel&combine_all_yearly_contributions=true&hide_border=true">
+	<img height="200" align="center" alt="SilenZcience' Contributor Stats" src="https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=vue&combine_all_yearly_contributions=true&hide_border=true">
 </a>
 </details>
 
