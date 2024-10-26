@@ -95,14 +95,12 @@ Github Stats and Activity
 <!-- language Stats -->
 <p align="center">
 
-	<img height="200" width="45%" align="center" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only">
-	&nbsp; &nbsp; &nbsp; &nbsp;
-	<img height="200" width="45%" align="center" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML#gh-dark-mode-only">
-	
-	
-	<img height="200" width="45%" align="center" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=vue&hide_border=true#gh-light-mode-only">
-	&nbsp; &nbsp; &nbsp; &nbsp;
-	<img height="200" width="45%" align="center" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML#gh-light-mode-only">
+<img height="200" width="45%" align="center" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only">
+<img height="200" width="45%" align="center" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML#gh-dark-mode-only">
+
+
+<img height="200" width="45%" align="center" alt="SilenZcience' Github Stats" src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=vue&hide_border=true#gh-light-mode-only">
+<img height="200" width="45%" align="center" alt="SilenZcience' Top Languages" src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML#gh-light-mode-only">
 
 </p>
 </details>
