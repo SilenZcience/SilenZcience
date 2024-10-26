@@ -21,6 +21,7 @@
 <!-- Tech Stack -->
 <details>
 <summary>My Tech Stack</summary>
+</br>
 
 ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/windows%2011-0079D5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
@@ -41,6 +42,7 @@
 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-4DAA24.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
