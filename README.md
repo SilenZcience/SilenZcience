@@ -59,7 +59,13 @@
 <summary>
 Github Stats and Activity 
 </summary>
-<h2><a href="#">&#x200B;</a><img unselectable="on" pointer-events="none" src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30" /> Github Stats and Activity</h2>
+<h2>
+	<a href="#">&#x200B;</a>
+	<a href="https://github.com/SilenZcience">
+		<img unselectable="on" pointer-events="none" src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30" /> 
+	</a>
+	Github Stats and Activity
+</h2>
 
 
 <details>
