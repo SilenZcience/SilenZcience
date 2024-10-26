@@ -20,12 +20,12 @@
 
 <!-- Tech Stack -->
 <details>
-<summary>My Tech Stack</summary>
+<summary><b>My Tech Stack</b></summary>
 </br>
 
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/windows%2011-0079D5.svg?style=for-the-badge&logo=Windows11&logoColor=white)
+![Windows11](https://img.shields.io/badge/windows%2011-0079D5.svg?style=for-the-badge&logo=Windows11&logoColor=white)
 ![WSL](https://img.shields.io/badge/wsl-E95420?style=for-the-badge&logo=linux&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -33,10 +33,10 @@
 ![GitLab](https://img.shields.io/badge/gitlab-FC6D20.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![PyPi](https://img.shields.io/badge/pypi-3775A9.svg?style=for-the-badge&logo=pypi&logoColor=white)
 
-![AutoIt](https://img.shields.io/badge/AutoIt-2D5073.svg?style=for-the-badge&logo=autoit&logoColor=white)
+![AutoIt](https://img.shields.io/badge/autoit-2D5073.svg?style=for-the-badge&logo=autoit&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Clojure](https://img.shields.io/badge/Clojure-Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=white)
+![Clojure](https://img.shields.io/badge/clojure-1BA248.svg?style=for-the-badge&logo=clojure&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Prolog](https://img.shields.io/badge/prolog-74283C?style=for-the-badge&logo=prolog&logoColor=white)
 ![PyPy](https://img.shields.io/badge/pypy-3670A0?style=for-the-badge&logo=pypy&logoColor=white)
@@ -50,20 +50,22 @@
 
 ![LaTeX](https://img.shields.io/badge/latex-008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-![Bash](https://img.shields.io/badge/bash-4DAA24.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
-![Git Bash](https://img.shields.io/badge/git%20bash-F05033.svg?style=for-the-badge&logo=Git-for-Windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-4DAA24.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![GitBash](https://img.shields.io/badge/git%20bash-F05033.svg?style=for-the-badge&logo=git-for-windows&logoColor=white)
+![GithubActions](https://img.shields.io/badge/github%20actions-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![PowerShell](https://img.shields.io/badge/powerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![WindowsTerminal](https://img.shields.io/badge/windows%20terminal-4D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![Intellij](https://img.shields.io/badge/Intellij-FE3963.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/eclipse-FE7A16.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![Intellij](https://img.shields.io/badge/intellij-FE3963.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Intellij](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![VisualStudioCode](https://img.shields.io/badge/visual%20studio%20code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-4ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 </details>
 
@@ -71,7 +73,7 @@
 <details>
 
 <summary>
-Github Stats and Activity 
+<b>Github Stats and Activity </b>
 </summary>
 <h2>
 	<a href="#">&#x200B;</a>
