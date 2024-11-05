@@ -108,12 +108,12 @@
 	<!-- Dark Mode Images -->
 	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
 		<img src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: dark)" height="175px">
-		<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML&card_width=320#gh-dark-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: dark)" height="175px">
+		<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=12&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML,Hack&card_width=320#gh-dark-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: dark)" height="175px">
 	</a>
 	<!-- Light Mode Images -->
 	<a href="https://github.com/SilenZcience#gh-light-mode-only">
 		<img src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=vue&hide_border=true#gh-light-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: light)" height="175px">
-		<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=8&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML&card_width=320#gh-light-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: light)" height="175px">
+		<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=12&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML,Hack&card_width=320#gh-light-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: light)" height="175px">
 	</a>
 </div>
 </details>
@@ -156,9 +156,9 @@
 <!-- GameOfLife -->
 <!-- Dark Mode Image -->
 <a href="https://github.com/SilenZcience/GameOfLifeAction#gh-dark-mode-only">
-	<img src="./GameOfLife/Transition-dark.gif" alt="Game of Life">
+	<img src="./GameOfLife/Transition-dark.gif#gh-dark-mode-only" alt="Game of Life">
 </a>
 <!-- Light Mode Image -->
 <a href="https://github.com/SilenZcience/GameOfLifeAction#gh-light-mode-only">
-	<img src="./GameOfLife/Transition-light.gif" alt="Game of Life">
+	<img src="./GameOfLife/Transition-light.gif#gh-light-mode-only" alt="Game of Life">
 </a>
