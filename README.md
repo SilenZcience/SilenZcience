@@ -1,7 +1,14 @@
 <!-- Profile Views -->
 <img align="right" alt="VisitorBadge.'" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSilenZcience&count_bg=%2336BCF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" />
 
-# [&#x200B;](#) 💫 Hi there, I'm Silas
+<h2>
+	<a href="#">&#x200B;</a>
+	<a href="#contact" title="Noto Emoji, licensed under CC BY 4.0">
+		<img unselectable="on" pointer-events="none" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.gif" width="30" />
+	</a>
+	<b>Hi there, I'm Silas</b>
+</h2>
+<!-- # [&#x200B;](#) 💫 Hi there, I'm Silas -->
 
 <!-- Username -->
 <p align="center">
@@ -20,7 +27,7 @@
 
 <!-- Tech Stack -->
 <details>
-<summary><b>My Tech Stack</b></summary>
+<summary><b>🔧My Tech Stack</b></summary>
 </br>
 
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -74,7 +81,7 @@
 <details>
 
 <summary>
-<b>Github Stats and Activity </b>
+<b>📊Github Stats and Activity </b>
 </summary>
 <h2>
 	<a href="#">&#x200B;</a>
@@ -87,7 +94,14 @@
 
 <details>
 <summary>🔥 Github Streak Stats</summary>
-<h2><a href="#">&#x200B;</a>🔥 Github Streak Stats</h2>
+<h2>
+	<a href="#">&#x200B;</a>
+	<a href="#about-the-project" title="Noto Emoji, licensed under CC BY 4.0">
+		<img unselectable="on" pointer-events="none" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="30" />
+	</a>
+	<b>Github Streak Stats</b>
+</h2>
+<!-- <h2><a href="#">&#x200B;</a>🔥 Github Streak Stats</h2> -->
 <!-- Github Streak -->
 <div align="center" style="display: flex;">
 	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
@@ -100,8 +114,15 @@
 </details>
 
 <details>
-<summary>💻 GitHub Profile Stats</summary>
-<h2><a href="#">&#x200B;</a>💻 GitHub Profile Stats</h2>
+<summary>🎓 GitHub Profile Stats</summary>
+<h2>
+	<a href="#">&#x200B;</a>
+	<a href="#about-the-project" title="Noto Emoji, licensed under CC BY 4.0">
+		<img unselectable="on" pointer-events="none" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30" />
+	</a>
+	<b>GitHub Profile Stats</b>
+</h2>
+<!-- <h2><a href="#">&#x200B;</a>💻 GitHub Profile Stats</h2> -->
 <!-- Github Stats -->
 <!-- language Stats -->
 <div align="center" style="display: flex;">
@@ -120,7 +141,14 @@
 
 <details>
 <summary>🍻 GitHub Contribution Stats</summary>
-<h2><a href="#">&#x200B;</a>🍻 GitHub Contribution Stats</h2>
+<h2>
+	<a href="#">&#x200B;</a>
+	<a href="#about-the-project" title="Noto Emoji, licensed under CC BY 4.0">
+		<img unselectable="on" pointer-events="none" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.gif" width="30" />
+	</a>
+	<b>GitHub Contribution Stats</b>
+</h2>
+<!-- <h2><a href="#">&#x200B;</a>🍻 GitHub Contribution Stats</h2> -->
 <!-- Contribution Graph -->
 <div align="center" style="display: flex;">
 	<!-- Dark Mode Images -->
