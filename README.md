@@ -168,10 +168,10 @@
 <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.10.1 2024.11.23](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-2. 🚀 Published release [V1.10.0 2024.11.15](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.0) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-3. 💪 Opened PR [#23](https://github.com/lnx00/Lmaobox-Lua/pull/23) in [lnx00/Lmaobox-Lua](https://github.com/lnx00/Lmaobox-Lua)
-4. 🗣 Commented on [#4](https://github.com/shawwn/supports-color-python/issues/4#issuecomment-2294508291) in [shawwn/supports-color-python](https://github.com/shawwn/supports-color-python)
+1. 🚀 Published release [V1.10.2 2024.12.14](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.2) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+2. 🚀 Published release [V1.10.1 2024.11.23](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+3. 🚀 Published release [V1.10.0 2024.11.15](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.0) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+4. 💪 Opened PR [#23](https://github.com/lnx00/Lmaobox-Lua/pull/23) in [lnx00/Lmaobox-Lua](https://github.com/lnx00/Lmaobox-Lua)
 5. 💪 Opened PR [#6](https://github.com/shawwn/supports-color-python/pull/6) in [shawwn/supports-color-python](https://github.com/shawwn/supports-color-python)
 <!--END_SECTION:activity-->
 
