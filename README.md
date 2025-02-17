@@ -22,7 +22,7 @@
 
 <!-- Messages -->
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I%27m+Silas.;Student+at+Heinrich-Heine-University.;I%27m+currently+working+on+my+Bachelor+Thesis.;I%27m+currently+learning+C%2B%2B.;&center=true&width=500&height=50" /> 
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I%27m+Silas.;Student+at+Heinrich-Heine-University.;&center=true&width=500&height=50" /> 
 </p>
 
 <!-- Tech Stack -->
