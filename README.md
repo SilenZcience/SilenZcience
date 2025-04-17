@@ -1,5 +1,5 @@
 <!-- Profile Views -->
-<img align="right" alt="VisitorBadge.'" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSilenZcience&count_bg=%2336BCF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=false" />
+<img align="right" alt="VisitorBadge.'" src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSilenZcience&label=Visitors&icon=person-circle&color=%23479f76" />
 
 <h2>
 	<a href="#">&#x200B;</a>
@@ -17,12 +17,12 @@
 	</a>
 	<a href="https://github.com/SilenZcience/SilenZcience/blame/main/CSS_UsernameBright.svg#gh-light-mode-only">
       <img width="43.2%" alt="Username in CSS" src="./CSS_UsernameBright.svg#gh-light-mode-only">
-    </a>	
+    </a>
 </p>
 
 <!-- Messages -->
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I%27m+Silas.;Student+at+Heinrich-Heine-University.;&center=true&width=500&height=50" /> 
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I%27m+Silas.;Student+at+Heinrich-Heine-University.;&center=true&width=500&height=50" />
 </p>
 
 <!-- Tech Stack -->
@@ -86,7 +86,7 @@
 <h2>
 	<a href="#">&#x200B;</a>
 	<a href="https://github.com/SilenZcience">
-		<img unselectable="on" pointer-events="none" src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30" /> 
+		<img unselectable="on" pointer-events="none" src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30" />
 	</a>
 	Github Stats and Activity
 </h2>
@@ -166,7 +166,7 @@
 
 <details>
 <summary>⚡ Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. 🚀 Published release [V1.10.3 2025.02.27](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.3) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 2. 🚀 Published release [V1.10.1 2024.11.23](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
