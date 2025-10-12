@@ -168,8 +168,8 @@
 <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.10.4 2025.09.27](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.4) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-2. 🗣 Commented on [#1](https://github.com/SilenZcience/NandToTetris/pull/1#issuecomment-3062276935) in [SilenZcience/NandToTetris](https://github.com/SilenZcience/NandToTetris)
+1. 🚀 Published release [V1.0.1 2025.10.06](https://github.com/SilenZcience/CAudioVisualizer/releases/tag/v1.0.1) in [SilenZcience/CAudioVisualizer](https://github.com/SilenZcience/CAudioVisualizer)
+2. 🚀 Published release [V1.10.4 2025.09.27](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.4) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 3. 🚀 Published release [V1.10.0 2024.11.15](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.0) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 4. 💪 Opened PR [#23](https://github.com/lnx00/Lmaobox-Lua/pull/23) in [lnx00/Lmaobox-Lua](https://github.com/lnx00/Lmaobox-Lua)
 5. 💪 Opened PR [#6](https://github.com/shawwn/supports-color-python/pull/6) in [shawwn/supports-color-python](https://github.com/shawwn/supports-color-python)
