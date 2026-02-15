@@ -168,7 +168,7 @@
 <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.0.3 2025.12.01](https://github.com/SilenZcience/CAudioVisualizer/releases/tag/v1.0.3) in [SilenZcience/CAudioVisualizer](https://github.com/SilenZcience/CAudioVisualizer)
+1. 🚀 Published release [🔷 V1.10.5 2026.02.11](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.5) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 2. 🚀 Published release [V1.0.2 2025.10.14](https://github.com/SilenZcience/CAudioVisualizer/releases/tag/v1.0.2) in [SilenZcience/CAudioVisualizer](https://github.com/SilenZcience/CAudioVisualizer)
 3. 🚀 Published release [V1.10.4 2025.09.27](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.4) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 4. 💪 Opened PR [#23](https://github.com/lnx00/Lmaobox-Lua/pull/23) in [lnx00/Lmaobox-Lua](https://github.com/lnx00/Lmaobox-Lua)
