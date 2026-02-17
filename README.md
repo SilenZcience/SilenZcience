@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"><br/>
-</p>
 
 <!-- Profile Views -->
 <img align="right" alt="VisitorBadge.'" src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FSilenZcience&label=Visitors&icon=person-circle&color=%23479f76" />
@@ -14,10 +11,9 @@
 </h2>
 <!-- # [&#x200B;](#) 💫 Hi there, I'm Silas -->
 
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:end-->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"><br/>
+</p>
 
 <!-- Username -->
 <p align="center">
@@ -31,7 +27,7 @@
 
 <!-- Messages -->
 <p align="center">
-	<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I%27m+Silas.;Student+at+Heinrich-Heine-University.;&center=true&width=500&height=50" />
+	<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I%27m+Silas.;Student+at+Heinrich-Heine-University.;Studying+for+my+master%27s+degree.;&center=true&width=500&height=50" />
 </p>
 
 <!-- Tech Stack -->
@@ -139,12 +135,12 @@
 	<!-- Dark Mode Images -->
 	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
 		<img src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: dark)" height="175px">
-		<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=12&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML,Hack&card_width=320#gh-dark-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: dark)" height="175px">
+		<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML,Hack,Scilab,PowerShell&card_width=320#gh-dark-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: dark)" height="175px">
 	</a>
 	<!-- Light Mode Images -->
 	<a href="https://github.com/SilenZcience#gh-light-mode-only">
 		<img src="https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=vue&hide_border=true#gh-light-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: light)" height="175px">
-		<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=12&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML,Hack&card_width=320#gh-light-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: light)" height="175px">
+		<img src="https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=10&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML,Hack,Scilab,PowerShell&card_width=320#gh-light-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: light)" height="175px">
 	</a>
 </div>
 </details>
