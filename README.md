@@ -43,6 +43,7 @@
 ![AutoIt](https://img.shields.io/badge/autoit-2D5073.svg?style=for-the-badge&logo=autoit&logoColor=white)
 ![C](https://img.shields.io/badge/c-00599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-00599C.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Clojure](https://img.shields.io/badge/clojure-1BA248.svg?style=for-the-badge&logo=clojure&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Prolog](https://img.shields.io/badge/prolog-74283C?style=for-the-badge&logo=prolog&logoColor=white)
@@ -168,11 +169,7 @@
 <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [V1.10.3 2025.02.27](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.3) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-2. 🚀 Published release [V1.10.1 2024.11.23](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-3. 🚀 Published release [V1.10.0 2024.11.15](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.0) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-4. 💪 Opened PR [#23](https://github.com/lnx00/Lmaobox-Lua/pull/23) in [lnx00/Lmaobox-Lua](https://github.com/lnx00/Lmaobox-Lua)
-5. 💪 Opened PR [#6](https://github.com/shawwn/supports-color-python/pull/6) in [shawwn/supports-color-python](https://github.com/shawwn/supports-color-python)
+
 <!--END_SECTION:activity-->
 
 </details>
