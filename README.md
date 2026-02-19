@@ -174,8 +174,8 @@
 <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [🔷 V1.10.6 2026.02.16](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.6) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-2. 🚀 Published release [🔷 V1.10.5 2026.02.11](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.5) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+1. 🚀 Published release [🔷 V0.1.3 2026.02.18](https://github.com/SilenZcience/ChessToTheDeath/releases/tag/v0.1.3) in [SilenZcience/ChessToTheDeath](https://github.com/SilenZcience/ChessToTheDeath)
+2. 🚀 Published release [🔷 V0.2.0 2026.02.18](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.0) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
 <!--END_SECTION:activity-->
 
 </details>
