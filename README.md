@@ -110,10 +110,10 @@
 <!-- <h2><a href="#">&#x200B;</a>🔥 Github Streak Stats</h2> -->
 <!-- Github Streak -->
 <div align="center" style="display: flex;">
-	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
+	<a href="./GameOfLife/GithubStreakStatsDarkGif.gif">
         <img src="./GameOfLife/GithubStreakStatsDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Streak" media="(prefers-color-scheme: dark)" height="192px">
 	</a>
-	<a href="https://github.com/SilenZcience#gh-light-mode-only">
+	<a href="./GameOfLife/GithubStreakStatsLightGif.gif">
         <img src="./GameOfLife/GithubStreakStatsLightGif.gif#gh-light-mode-only" alt="SilenZcience' Streak" media="(prefers-color-scheme: light)" height="192px">
 	</a>
 </p>
@@ -133,14 +133,18 @@
 <!-- language Stats -->
 <div align="center" style="display: flex;">
 	<!-- Dark Mode Images -->
-	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
+	<a href="./GameOfLife/GithubProfileStatsDarkGif.gif">
         <img src="./GameOfLife/GithubProfileStatsDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: dark)" height="175px">
-        <!-- <img src="./GameOfLife/GithubLanguagesUsedDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: dark)" height="175px"> -->
+	</a>
+	<a href="./GameOfLife/GithubLanguagesUsedDarkGif.gif">
+        <img src="./GameOfLife/GithubLanguagesUsedDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: dark)" height="175px">
 	</a>
 	<!-- Light Mode Images -->
-	<a href="https://github.com/SilenZcience#gh-light-mode-only">
+	<a href="./GameOfLife/GithubProfileStatsLightGif.gif">
         <img src="./GameOfLife/GithubProfileStatsLightGif.gif#gh-light-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: light)" height="175px">
-        <!-- <img src="./GameOfLife/GithubLanguagesUsedLightGif.gif#gh-light-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: light)" height="175px"> -->
+	</a>
+	<a href="./GameOfLife/GithubLanguagesUsedLightGif.gif">
+        <img src="./GameOfLife/GithubLanguagesUsedLightGif.gif#gh-light-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: light)" height="175px">
 	</a>
 </div>
 </details>
@@ -158,13 +162,17 @@
 <!-- Contribution Graph -->
 <div align="center" style="display: flex;">
 	<!-- Dark Mode Images -->
-	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
+	<a href="./GameOfLife/GithubContributionGraphDarkGif.gif">
         <img src="./GameOfLife/GithubContributionGraphDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Contribution Graph" media="(prefers-color-scheme: dark)" height="175px">
+	</a>
+	<a href="./GameOfLife/GithubContributorStatsDarkGif.gif">
         <img src="./GameOfLife/GithubContributorStatsDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Contributor Stats" media="(prefers-color-scheme: dark)" height="175px">
 	</a>
 	<!-- Light Mode Images -->
-	<a href="https://github.com/SilenZcience#gh-light-mode-only">
+	<a href="./GameOfLife/GithubContributionGraphLightGif.gif">
         <img src="./GameOfLife/GithubContributionGraphLightGif.gif#gh-light-mode-only" alt="SilenZcience' Contribution Graph" media="(prefers-color-scheme: light)" height="175px">
+	</a>
+	<a href="./GameOfLife/GithubContributorStatsLightGif.gif">
         <img src="./GameOfLife/GithubContributorStatsLightGif.gif#gh-light-mode-only" alt="SilenZcience' Contributor Stats" media="(prefers-color-scheme: light)" height="175px">
 	</a>
 </div>
