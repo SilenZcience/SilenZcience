@@ -17,6 +17,7 @@ jobs:
         uses: SilenZcience/GameOfLifeAction@v1
         with:
           path: 'GameOfLife'
+          grid: '189,489'
           gif-name: GithubStreakStatsLightGif
           do-gif: 'true'
           gif-file: 'https://streak-stats.demolab.com/?user=SilenZcience&theme=vue&hide_border=true#gh-light-mode-only'
@@ -28,6 +29,7 @@ jobs:
         uses: SilenZcience/GameOfLifeAction@v1
         with:
           path: 'GameOfLife'
+          grid: '189,489'
           gif-name: GithubStreakStatsDarkGif
           do-gif: 'true'
           gif-file: 'https://streak-stats.demolab.com/?user=SilenZcience&theme=radical&hide_border=true#gh-dark-mode-only'
@@ -39,6 +41,7 @@ jobs:
         uses: SilenZcience/GameOfLifeAction@v1
         with:
           path: 'GameOfLife'
+          grid: '144,461'
           gif-name: GithubProfileStatsLightGif
           do-gif: 'true'
           gif-file: 'https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=vue&hide_border=true#gh-light-mode-only'
@@ -50,6 +53,7 @@ jobs:
         uses: SilenZcience/GameOfLifeAction@v1
         with:
           path: 'GameOfLife'
+          grid: '144,461'
           gif-name: GithubProfileStatsDarkGif
           do-gif: 'true'
           gif-file: 'https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only'
@@ -61,6 +65,7 @@ jobs:
         uses: SilenZcience/GameOfLifeAction@v1
         with:
           path: 'GameOfLife'
+          grid: '209,314'
           gif-name: GithubLanguagesUsedLightGif
           do-gif: 'true'
           gif-file: 'https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=10&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML,Hack,Scilab,PowerShell&card_width=320#gh-light-mode-only'
@@ -72,6 +77,7 @@ jobs:
         uses: SilenZcience/GameOfLifeAction@v1
         with:
           path: 'GameOfLife'
+          grid: '209,314'
           gif-name: GithubLanguagesUsedDarkGif
           do-gif: 'true'
           gif-file: 'https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML,Hack,Scilab,PowerShell&card_width=320#gh-dark-mode-only'
@@ -105,6 +111,7 @@ jobs:
         uses: SilenZcience/GameOfLifeAction@v1
         with:
           path: 'GameOfLife'
+          grid: '206,596'
           gif-name: GithubContributionGraphLightGif
           do-gif: 'true'
           gif-file: 'https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume''s%20Contribution%20Graph&theme=vue&bg_color=fffefe&hide_border=true&point=28394a#gh-light-mode-only'
@@ -116,6 +123,7 @@ jobs:
         uses: SilenZcience/GameOfLifeAction@v1
         with:
           path: 'GameOfLife'
+          grid: '206,596'
           gif-name: GithubContributionGraphDarkGif
           do-gif: 'true'
           gif-file: 'https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume''s%20Contribution%20Graph&theme=merko&bg_color=141321&hide_border=true&line=d83a7d&point=f7d747#gh-dark-mode-only'
