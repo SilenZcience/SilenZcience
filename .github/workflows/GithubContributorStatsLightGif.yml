@@ -1,0 +1,23 @@
+name: Update GithubContributorStatsLightGif
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: gameoflife-push
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          path: 'GameOfLife'
+          gif-name: GithubContributorStatsLightGif
+          do-gif: 'true'
+          gif-file: 'https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=vue&combine_all_yearly_contributions=true&hide_border=true#gh-light-mode-only'
+          gif-length: '500'
+          commit: 'true'
