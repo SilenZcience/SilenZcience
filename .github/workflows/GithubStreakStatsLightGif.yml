@@ -13,6 +13,7 @@ jobs:
     steps:
       - uses: SilenZcience/GameOfLifeAction@v1
         with:
+          path: 'GameOfLife'
           gif-name: GithubStreakStatsLightGif
           do-gif: 'true'
           gif-file: 'https://streak-stats.demolab.com/?user=SilenZcience&theme=vue&hide_border=true#gh-light-mode-only'
