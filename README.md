@@ -30,6 +30,113 @@
 	<img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I%27m+Silas.;Student+at+Heinrich-Heine-University.;Studying+for+my+master%27s+degree.;&center=true&width=500&height=50" />
 </p>
 
+<!-- Statistic Details -->
+<details open>
+
+<summary>
+<b>📊Github Stats and Activity </b>
+</summary>
+<h2>
+	<a href="#">&#x200B;</a>
+	<a href="https://github.com/SilenZcience">
+		<img unselectable="on" pointer-events="none" src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30" />
+	</a>
+	Github Stats and Activity
+</h2>
+
+
+<details open>
+<summary>🔥 Github Streak Stats</summary>
+<h2>
+	<a href="#">&#x200B;</a>
+	<a href="#about-the-project" title="Noto Emoji, licensed under CC BY 4.0">
+		<img unselectable="on" pointer-events="none" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="30" />
+	</a>
+	<b>Github Streak Stats</b>
+</h2>
+<!-- <h2><a href="#">&#x200B;</a>🔥 Github Streak Stats</h2> -->
+<!-- Github Streak -->
+<div align="center" style="display: flex;">
+	<a href="./GameOfLife/GithubStreakStatsDarkGif.gif#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+        <img src="./GameOfLife/GithubStreakStatsDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Streak" media="(prefers-color-scheme: dark)" height="192px">
+	</a>
+	<a href="./GameOfLife/GithubStreakStatsLightGif.gif#gh-light-mode-only" media="(prefers-color-scheme: light)">
+        <img src="./GameOfLife/GithubStreakStatsLightGif.gif#gh-light-mode-only" alt="SilenZcience' Streak" media="(prefers-color-scheme: light)" height="192px">
+	</a>
+</p>
+</details>
+
+<details open>
+<summary>🎓 GitHub Profile Stats</summary>
+<h2>
+	<a href="#">&#x200B;</a>
+	<a href="#about-the-project" title="Noto Emoji, licensed under CC BY 4.0">
+		<img unselectable="on" pointer-events="none" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30" />
+	</a>
+	<b>GitHub Profile Stats</b>
+</h2>
+<!-- <h2><a href="#">&#x200B;</a>💻 GitHub Profile Stats</h2> -->
+<!-- Github Stats -->
+<!-- language Stats -->
+<div align="center" style="display: flex;">
+	<!-- Dark Mode Images -->
+	<a href="./GameOfLife/GithubProfileStatsDarkGif.gif#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+        <img src="./GameOfLife/GithubProfileStatsDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: dark)" height="175px">
+	</a>
+	<a href="./GameOfLife/GithubLanguagesUsedDarkGif.gif#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+        <img src="./GameOfLife/GithubLanguagesUsedDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: dark)" height="175px">
+	</a>
+	<!-- Light Mode Images -->
+	<a href="./GameOfLife/GithubProfileStatsLightGif.gif#gh-light-mode-only" media="(prefers-color-scheme: light)">
+        <img src="./GameOfLife/GithubProfileStatsLightGif.gif#gh-light-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: light)" height="175px">
+	</a>
+	<a href="./GameOfLife/GithubLanguagesUsedLightGif.gif#gh-light-mode-only" media="(prefers-color-scheme: light)">
+        <img src="./GameOfLife/GithubLanguagesUsedLightGif.gif#gh-light-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: light)" height="175px">
+	</a>
+</div>
+</details>
+
+<details open>
+<summary>🍻 GitHub Contribution Stats</summary>
+<h2>
+	<a href="#">&#x200B;</a>
+	<a href="#about-the-project" title="Noto Emoji, licensed under CC BY 4.0">
+		<img unselectable="on" pointer-events="none" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.gif" width="30" />
+	</a>
+	<b>GitHub Contribution Stats</b>
+</h2>
+<!-- <h2><a href="#">&#x200B;</a>🍻 GitHub Contribution Stats</h2> -->
+<!-- Contribution Graph -->
+<div align="center" style="display: flex;">
+	<!-- Dark Mode Images -->
+	<a href="./GameOfLife/GithubContributionGraphDarkGif.gif#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+        <img src="./GameOfLife/GithubContributionGraphDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Contribution Graph" media="(prefers-color-scheme: dark)" height="175px">
+	</a>
+	<a href="./GameOfLife/GithubContributorStatsDarkGif.gif#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
+        <img src="./GameOfLife/GithubContributorStatsDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Contributor Stats" media="(prefers-color-scheme: dark)" height="175px">
+	</a>
+	<!-- Light Mode Images -->
+	<a href="./GameOfLife/GithubContributionGraphLightGif.gif#gh-light-mode-only" media="(prefers-color-scheme: light)">
+        <img src="./GameOfLife/GithubContributionGraphLightGif.gif#gh-light-mode-only" alt="SilenZcience' Contribution Graph" media="(prefers-color-scheme: light)" height="175px">
+	</a>
+	<a href="./GameOfLife/GithubContributorStatsLightGif.gif#gh-light-mode-only" media="(prefers-color-scheme: light)">
+        <img src="./GameOfLife/GithubContributorStatsLightGif.gif#gh-light-mode-only" alt="SilenZcience' Contributor Stats" media="(prefers-color-scheme: light)" height="175px">
+	</a>
+</div>
+</details>
+
+<details>
+<summary>⚡ Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+1. 🚀 Published release [🔷 V0.1.3 2026.02.18](https://github.com/SilenZcience/ChessToTheDeath/releases/tag/v0.1.3) in [SilenZcience/ChessToTheDeath](https://github.com/SilenZcience/ChessToTheDeath)
+2. 🚀 Published release [🔷 V0.2.0 2026.02.18](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.0) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
+<!--END_SECTION:activity-->
+
+</details>
+
+</details>
+
 <!-- Tech Stack -->
 <details>
 <summary><b>🔧My Tech Stack</b></summary>
@@ -80,113 +187,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-</details>
-
-<!-- Statistic Details -->
-<details>
-
-<summary>
-<b>📊Github Stats and Activity </b>
-</summary>
-<h2>
-	<a href="#">&#x200B;</a>
-	<a href="https://github.com/SilenZcience">
-		<img unselectable="on" pointer-events="none" src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="30" />
-	</a>
-	Github Stats and Activity
-</h2>
-
-
-<details>
-<summary>🔥 Github Streak Stats</summary>
-<h2>
-	<a href="#">&#x200B;</a>
-	<a href="#about-the-project" title="Noto Emoji, licensed under CC BY 4.0">
-		<img unselectable="on" pointer-events="none" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f525/512.gif" width="30" />
-	</a>
-	<b>Github Streak Stats</b>
-</h2>
-<!-- <h2><a href="#">&#x200B;</a>🔥 Github Streak Stats</h2> -->
-<!-- Github Streak -->
-<div align="center" style="display: flex;">
-	<a href="./GameOfLife/GithubStreakStatsDarkGif.gif#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-        <img src="./GameOfLife/GithubStreakStatsDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Streak" media="(prefers-color-scheme: dark)" height="192px">
-	</a>
-	<a href="./GameOfLife/GithubStreakStatsLightGif.gif#gh-light-mode-only" media="(prefers-color-scheme: light)">
-        <img src="./GameOfLife/GithubStreakStatsLightGif.gif#gh-light-mode-only" alt="SilenZcience' Streak" media="(prefers-color-scheme: light)" height="192px">
-	</a>
-</p>
-</details>
-
-<details>
-<summary>🎓 GitHub Profile Stats</summary>
-<h2>
-	<a href="#">&#x200B;</a>
-	<a href="#about-the-project" title="Noto Emoji, licensed under CC BY 4.0">
-		<img unselectable="on" pointer-events="none" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30" />
-	</a>
-	<b>GitHub Profile Stats</b>
-</h2>
-<!-- <h2><a href="#">&#x200B;</a>💻 GitHub Profile Stats</h2> -->
-<!-- Github Stats -->
-<!-- language Stats -->
-<div align="center" style="display: flex;">
-	<!-- Dark Mode Images -->
-	<a href="./GameOfLife/GithubProfileStatsDarkGif.gif#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-        <img src="./GameOfLife/GithubProfileStatsDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: dark)" height="175px">
-	</a>
-	<a href="./GameOfLife/GithubLanguagesUsedDarkGif.gif#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-        <img src="./GameOfLife/GithubLanguagesUsedDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: dark)" height="175px">
-	</a>
-	<!-- Light Mode Images -->
-	<a href="./GameOfLife/GithubProfileStatsLightGif.gif#gh-light-mode-only" media="(prefers-color-scheme: light)">
-        <img src="./GameOfLife/GithubProfileStatsLightGif.gif#gh-light-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: light)" height="175px">
-	</a>
-	<a href="./GameOfLife/GithubLanguagesUsedLightGif.gif#gh-light-mode-only" media="(prefers-color-scheme: light)">
-        <img src="./GameOfLife/GithubLanguagesUsedLightGif.gif#gh-light-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: light)" height="175px">
-	</a>
-</div>
-</details>
-
-<details>
-<summary>🍻 GitHub Contribution Stats</summary>
-<h2>
-	<a href="#">&#x200B;</a>
-	<a href="#about-the-project" title="Noto Emoji, licensed under CC BY 4.0">
-		<img unselectable="on" pointer-events="none" src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f37b/512.gif" width="30" />
-	</a>
-	<b>GitHub Contribution Stats</b>
-</h2>
-<!-- <h2><a href="#">&#x200B;</a>🍻 GitHub Contribution Stats</h2> -->
-<!-- Contribution Graph -->
-<div align="center" style="display: flex;">
-	<!-- Dark Mode Images -->
-	<a href="./GameOfLife/GithubContributionGraphDarkGif.gif#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-        <img src="./GameOfLife/GithubContributionGraphDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Contribution Graph" media="(prefers-color-scheme: dark)" height="175px">
-	</a>
-	<a href="./GameOfLife/GithubContributorStatsDarkGif.gif#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
-        <img src="./GameOfLife/GithubContributorStatsDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Contributor Stats" media="(prefers-color-scheme: dark)" height="175px">
-	</a>
-	<!-- Light Mode Images -->
-	<a href="./GameOfLife/GithubContributionGraphLightGif.gif#gh-light-mode-only" media="(prefers-color-scheme: light)">
-        <img src="./GameOfLife/GithubContributionGraphLightGif.gif#gh-light-mode-only" alt="SilenZcience' Contribution Graph" media="(prefers-color-scheme: light)" height="175px">
-	</a>
-	<a href="./GameOfLife/GithubContributorStatsLightGif.gif#gh-light-mode-only" media="(prefers-color-scheme: light)">
-        <img src="./GameOfLife/GithubContributorStatsLightGif.gif#gh-light-mode-only" alt="SilenZcience' Contributor Stats" media="(prefers-color-scheme: light)" height="175px">
-	</a>
-</div>
-</details>
-
-<details>
-<summary>⚡ Recent GitHub Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🚀 Published release [🔷 V0.1.3 2026.02.18](https://github.com/SilenZcience/ChessToTheDeath/releases/tag/v0.1.3) in [SilenZcience/ChessToTheDeath](https://github.com/SilenZcience/ChessToTheDeath)
-2. 🚀 Published release [🔷 V0.2.0 2026.02.18](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.0) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
-<!--END_SECTION:activity-->
-
-</details>
 
 </details>
 
