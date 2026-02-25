@@ -1,0 +1,20 @@
+name: Update GithubStreakStatsLightGif
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: gameoflife-push
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          gif-name: GithubStreakStatsLightGif
+          do-gif: 'true'
+          gif-file: 'https://streak-stats.demolab.com/?user=SilenZcience&theme=vue&hide_border=true#gh-light-mode-only'
+          gif-length: '1000'
+          commit: 'true'

@@ -111,10 +111,10 @@
 <!-- Github Streak -->
 <div align="center" style="display: flex;">
 	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
-		<img src="https://streak-stats.demolab.com/?user=SilenZcience&theme=radical&hide_border=true#gh-dark-mode-only" alt="SilenZcience' Streak" media="(prefers-color-scheme: dark)" height="192px" />
+        <img src="./GameOfLife/GithubStreakStatsDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Streak" media="(prefers-color-scheme: dark)" height="192px">
 	</a>
 	<a href="https://github.com/SilenZcience#gh-light-mode-only">
-		<img src="https://streak-stats.demolab.com/?user=SilenZcience&theme=vue&hide_border=true#gh-light-mode-only" alt="SilenZcience' Streak" media="(prefers-color-scheme: light)" height="192px" />
+        <img src="./GameOfLife/GithubStreakStatsLightGif.gif#gh-dark-mode-only" alt="SilenZcience' Streak" media="(prefers-color-scheme: light)" height="192px">
 	</a>
 </p>
 </details>

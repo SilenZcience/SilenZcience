@@ -1,0 +1,20 @@
+name: Update GithubStreakStatsDarkGif
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: gameoflife-push
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          gif-name: GithubStreakStatsDarkGif
+          do-gif: 'true'
+          gif-file: 'https://streak-stats.demolab.com/?user=SilenZcience&theme=radical&hide_border=true#gh-dark-mode-only'
+          gif-length: '1000'
+          commit: 'true'
