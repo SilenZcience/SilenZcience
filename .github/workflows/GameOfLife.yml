@@ -1,0 +1,104 @@
+name: Update GameOfLife GIFs
+
+on:
+  schedule:
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: gameoflife-push
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          path: 'GameOfLife'
+          gif-name: GithubStreakStatsLightGif
+          do-gif: 'true'
+          gif-file: 'https://streak-stats.demolab.com/?user=SilenZcience&theme=vue&hide_border=true#gh-light-mode-only'
+          gif-length: '500'
+          commit: 'true'
+
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          path: 'GameOfLife'
+          gif-name: GithubStreakStatsDarkGif
+          do-gif: 'true'
+          gif-file: 'https://streak-stats.demolab.com/?user=SilenZcience&theme=radical&hide_border=true#gh-dark-mode-only'
+          gif-length: '500'
+          commit: 'true'
+
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          path: 'GameOfLife'
+          gif-name: GithubProfileStatsLightGif
+          do-gif: 'true'
+          gif-file: 'https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=vue&hide_border=true#gh-light-mode-only'
+          gif-length: '500'
+          commit: 'true'
+
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          path: 'GameOfLife'
+          gif-name: GithubProfileStatsDarkGif
+          do-gif: 'true'
+          gif-file: 'https://github-readme-stats-sigma-red.vercel.app/api?username=SilenZcience&show_icons=true&include_all_commits=true&hide=issues,contribs&count_private=true&theme=radical&hide_border=true#gh-dark-mode-only'
+          gif-length: '500'
+          commit: 'true'
+
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          path: 'GameOfLife'
+          gif-name: GithubLanguagesUsedLightGif
+          do-gif: 'true'
+          gif-file: 'https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=10&theme=vue&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML,Hack,Scilab,PowerShell&card_width=320#gh-light-mode-only'
+          gif-length: '500'
+          commit: 'true'
+
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          path: 'GameOfLife'
+          gif-name: GithubLanguagesUsedDarkGif
+          do-gif: 'true'
+          gif-file: 'https://github-readme-stats-sigma-red.vercel.app/api/top-langs/?username=SilenZcience&langs_count=10&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=Makefile,Batchfile,HTML,Hack,Scilab,PowerShell&card_width=320#gh-dark-mode-only'
+          gif-length: '500'
+          commit: 'true'
+
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          path: 'GameOfLife'
+          gif-name: GithubContributorStatsLightGif
+          do-gif: 'true'
+          gif-file: 'https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=vue&combine_all_yearly_contributions=true&hide_border=true#gh-light-mode-only'
+          gif-length: '500'
+          commit: 'true'
+
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          path: 'GameOfLife'
+          gif-name: GithubContributorStatsDarkGif
+          do-gif: 'true'
+          gif-file: 'https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true#gh-dark-mode-only'
+          gif-length: '500'
+          commit: 'true'
+
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          path: 'GameOfLife'
+          gif-name: GithubContributionGraphLightGif
+          do-gif: 'true'
+          gif-file: 'https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume''s%20Contribution%20Graph&theme=vue&bg_color=fffefe&hide_border=true&point=28394a#gh-light-mode-only'
+          gif-length: '500'
+          commit: 'true'
+
+      - uses: SilenZcience/GameOfLifeAction@v1
+        with:
+          path: 'GameOfLife'
+          gif-name: GithubContributionGraphDarkGif
+          do-gif: 'true'
+          gif-file: 'https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume''s%20Contribution%20Graph&theme=merko&bg_color=141321&hide_border=true&line=d83a7d&point=f7d747#gh-dark-mode-only'
+          gif-length: '500'
+          commit: 'true'
