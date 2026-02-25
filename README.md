@@ -11,9 +11,9 @@
 </h2>
 <!-- # [&#x200B;](#) 💫 Hi there, I'm Silas -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient"><br/>
-</p>
+</p> -->
 
 <!-- Username -->
 <p align="center">
@@ -135,12 +135,12 @@
 	<!-- Dark Mode Images -->
 	<a href="https://github.com/SilenZcience#gh-dark-mode-only">
         <img src="./GameOfLife/GithubProfileStatsDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: dark)" height="175px">
-        <img src="./GameOfLife/GithubLanguagesUsedDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: dark)" height="175px">
+        <!-- <img src="./GameOfLife/GithubLanguagesUsedDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: dark)" height="175px"> -->
 	</a>
 	<!-- Light Mode Images -->
 	<a href="https://github.com/SilenZcience#gh-light-mode-only">
         <img src="./GameOfLife/GithubProfileStatsLightGif.gif#gh-light-mode-only" alt="SilenZcience' Github Stats" media="(prefers-color-scheme: light)" height="175px">
-        <img src="./GameOfLife/GithubLanguagesUsedLightGif.gif#gh-light-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: light)" height="175px">
+        <!-- <img src="./GameOfLife/GithubLanguagesUsedLightGif.gif#gh-light-mode-only" alt="SilenZcience' Top Languages" media="(prefers-color-scheme: light)" height="175px"> -->
 	</a>
 </div>
 </details>
