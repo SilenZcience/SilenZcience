@@ -14,10 +14,11 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    continue-on-error: true
+
     steps:
       - name: GithubStreakStatsLightGif
         uses: SilenZcience/GameOfLifeAction@v1
+        continue-on-error: true
         with:
           path: 'GameOfLife'
           grid: '189,489'
@@ -30,6 +31,7 @@ jobs:
 
       - name: GithubStreakStatsDarkGif
         uses: SilenZcience/GameOfLifeAction@v1
+        continue-on-error: true
         with:
           path: 'GameOfLife'
           grid: '189,489'
@@ -42,6 +44,7 @@ jobs:
 
       - name: GithubProfileStatsLightGif
         uses: SilenZcience/GameOfLifeAction@v1
+        continue-on-error: true
         with:
           path: 'GameOfLife'
           grid: '144,461'
@@ -54,6 +57,7 @@ jobs:
 
       - name: GithubProfileStatsDarkGif
         uses: SilenZcience/GameOfLifeAction@v1
+        continue-on-error: true
         with:
           path: 'GameOfLife'
           grid: '144,461'
@@ -66,6 +70,7 @@ jobs:
 
       - name: GithubLanguagesUsedLightGif
         uses: SilenZcience/GameOfLifeAction@v1
+        continue-on-error: true
         with:
           path: 'GameOfLife'
           grid: '209,314'
@@ -78,6 +83,7 @@ jobs:
 
       - name: GithubLanguagesUsedDarkGif
         uses: SilenZcience/GameOfLifeAction@v1
+        continue-on-error: true
         with:
           path: 'GameOfLife'
           grid: '209,314'
@@ -90,6 +96,7 @@ jobs:
 
       - name: GithubContributorStatsLightGif
         uses: SilenZcience/GameOfLifeAction@v1
+        continue-on-error: true
         with:
           path: 'GameOfLife'
           grid: '267,489'
@@ -102,6 +109,7 @@ jobs:
 
       - name: GithubContributorStatsDarkGif
         uses: SilenZcience/GameOfLifeAction@v1
+        continue-on-error: true
         with:
           path: 'GameOfLife'
           grid: '267,489'
@@ -114,6 +122,7 @@ jobs:
 
       - name: GithubContributionGraphLightGif
         uses: SilenZcience/GameOfLifeAction@v1
+        continue-on-error: true
         with:
           path: 'GameOfLife'
           grid: '205,595'
@@ -126,6 +135,7 @@ jobs:
 
       - name: GithubContributionGraphDarkGif
         uses: SilenZcience/GameOfLifeAction@v1
+        continue-on-error: true
         with:
           path: 'GameOfLife'
           grid: '205,595'
