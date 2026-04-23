@@ -146,7 +146,7 @@
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [🔷 V0.2.1 2026.04.20](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.1) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
-2. 🚀 Published release [🔷 V2.0.0 2026.04.20](https://github.com/SilenZcience/cat_win/releases/tag/v2.0.0) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+2. 🚀 Published release [🔷 V0.2.1 2026.04.20](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.1) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
 <!--END_SECTION:activity-->
 
 </details>
