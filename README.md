@@ -146,7 +146,10 @@
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [🔷 V0.2.1 2026.04.20](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.1) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
-2. 🚀 Published release [🔷 V0.2.1 2026.04.20](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.1) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
+2. 🚀 Published release [🔷 V2.0.0 2026.04.20](https://github.com/SilenZcience/cat_win/releases/tag/v2.0.0) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+3. 🚀 Published release [🔷 V0.1.3 2026.02.18](https://github.com/SilenZcience/ChessToTheDeath/releases/tag/v0.1.3) in [SilenZcience/ChessToTheDeath](https://github.com/SilenZcience/ChessToTheDeath)
+4. 🚀 Published release [🔷 V0.2.0 2026.02.18](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.0) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
+5. 🚀 Published release [🔷 V1.10.6 2026.02.16](https://github.com/SilenZcience/cat_win/releases/tag/v1.10.6) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 <!--END_SECTION:activity-->
 
 </details>
