@@ -119,7 +119,7 @@
 	<!-- Dark Mode Images -->
     <a href="https://github.com/SilenZcience#gh-dark-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=merko&bg_color=141321&hide_border=true&line=d83a7d&point=f7d747#gh-dark-mode-only" alt="SilenZcience' Contribution Graph" media="(prefers-color-scheme: dark)" height="175px">
-        <img src="https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true#gh-dark-mode-only" alt="SilenZcience' Contributor Stats" media="(prefers-color-scheme: dark)" height="175px">
+        <img src="https://github-contribution-card.vercel.app/api?username=SilenZcience&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true#gh-dark-mode-only" alt="SilenZcience' Contributor Stats" media="(prefers-color-scheme: dark)" height="175px">
     </a>
 	<!-- <a href="./GameOfLife/GithubContributionGraphDarkGif.gif#gh-dark-mode-only" media="(prefers-color-scheme: dark)">
         <img src="./GameOfLife/GithubContributionGraphDarkGif.gif#gh-dark-mode-only" alt="SilenZcience' Contribution Graph" media="(prefers-color-scheme: dark)" height="175px">
@@ -130,7 +130,7 @@
 	<!-- Light Mode Images -->
     <a href="https://github.com/SilenZcience#gh-light-mode-only">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=SilenZcience&custom_title=Silas+Kraume's%20Contribution%20Graph&theme=vue&bg_color=fffefe&hide_border=true&point=28394a#gh-light-mode-only" alt="SilenZcience' Contribution Graph" media="(prefers-color-scheme: light)" height="175px">
-        <img src="https://github-contributor-stats.vercel.app/api?username=SilenZcience&limit=5&theme=vue&combine_all_yearly_contributions=true&hide_border=true#gh-light-mode-only" alt="SilenZcience' Contributor Stats" media="(prefers-color-scheme: light)" height="175px">
+        <img src="https://github-contribution-card.vercel.app/api?username=SilenZcience/api?username=SilenZcience&limit=5&theme=vue&combine_all_yearly_contributions=true&hide_border=true#gh-light-mode-only" alt="SilenZcience' Contributor Stats" media="(prefers-color-scheme: light)" height="175px">
     </a>
 	<!-- <a href="./GameOfLife/GithubContributionGraphLightGif.gif#gh-light-mode-only" media="(prefers-color-scheme: light)">
         <img src="./GameOfLife/GithubContributionGraphLightGif.gif#gh-light-mode-only" alt="SilenZcience' Contribution Graph" media="(prefers-color-scheme: light)" height="175px">
