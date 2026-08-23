@@ -145,11 +145,11 @@
 <summary>⚡ Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/lnx00/game-patches/issues/1#issuecomment-5039478956) in [lnx00/game-patches](https://github.com/lnx00/game-patches)
-2. 🚀 Published release [🔷 V0.2.3 2026.05.25](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.3) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
-3. 🚀 Published release [🔷 V0.2.2 2026.05.23](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.2) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
-4. 🚀 Published release [🔷 V2.0.1 2026.04.24](https://github.com/SilenZcience/cat_win/releases/tag/v2.0.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
-5. 🚀 Published release [🔷 V0.2.1 2026.04.20](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.1) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
+1. 🚀 Published release [🔷 V2.0.2 2026.08.22](https://github.com/SilenZcience/cat_win/releases/tag/v2.0.2) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
+2. 💪 Opened PR [#4](https://github.com/fzaiser/faithful-acmart/pull/4) in [fzaiser/faithful-acmart](https://github.com/fzaiser/faithful-acmart)
+3. 🚀 Published release [🔷 V0.2.3 2026.05.25](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.3) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
+4. 🚀 Published release [🔷 V0.2.2 2026.05.23](https://github.com/SilenZcience/cmdtrix/releases/tag/v0.2.2) in [SilenZcience/cmdtrix](https://github.com/SilenZcience/cmdtrix)
+5. 🚀 Published release [🔷 V2.0.1 2026.04.24](https://github.com/SilenZcience/cat_win/releases/tag/v2.0.1) in [SilenZcience/cat_win](https://github.com/SilenZcience/cat_win)
 <!--END_SECTION:activity-->
 
 </details>
